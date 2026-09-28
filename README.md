@@ -1,10 +1,10 @@
-# 🚀 CareerForge AI: An Intelligent Career Intelligence Platform
+# CareerForge AI: An Intelligent Career Intelligence Platform
 
 **An Intelligent Career Guidance and Skill-Gap Analytics Platform Using Data Engineering, Data Mining, Scikit-Learn Machine Learning, PyTorch Deep Learning, FastAPI REST Microservices, and React.**
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 1. [Project Overview](#1-project-overview)
 2. [Problem Statement](#2-problem-statement)
 3. [Objectives](#3-objectives)
@@ -57,13 +57,13 @@ Higher education students frequently struggle to align their academic skills wit
 ---
 
 ## 4. Key Features
-- 📊 **Empirical Market Mining:** Analytics derived from 33,245 job postings across 8 career categories.
-- 🎯 **Skill-Gap Analytics:** Automated matched vs. missing skill identification and coverage % computation.
-- 🧠 **Dual AI Classifiers:** Classical Scikit-Learn Random Forest baseline + 3-Layer PyTorch Softmax Deep Neural Network.
-- ⚖️ **Multi-Criteria Hybrid Recommendation Engine:** Weighted composite scoring blending Skill Match (40%), PyTorch DL (25%), Random Forest ML (15%), Market Share (10%), and Student Target Choice (10%).
-- 🗺️ **Personalized Learning Roadmap:** 4-stage sequential learning paths (Core Foundation -> Technical Specialization -> Advanced Mastery -> Projects).
-- ⚡ **Scalable REST APIs:** 11 FastAPI endpoints serving JSON payloads under 150ms.
-- 🎨 **Modern React UI:** Interactive dashboard with Recharts visualizations, dark-mode header accents, and responsive layout.
+- **Empirical Market Mining:** Analytics derived from 33,245 job postings across 8 career categories.
+- **Skill-Gap Analytics:** Automated matched vs. missing skill identification and coverage % computation.
+- **Dual AI Classifiers:** Classical Scikit-Learn Random Forest baseline + 3-Layer PyTorch Softmax Deep Neural Network.
+- **Multi-Criteria Hybrid Recommendation Engine:** Weighted composite scoring blending Skill Match (40%), PyTorch DL (25%), Random Forest ML (15%), Market Share (10%), and Student Target Choice (10%).
+- **Personalized Learning Roadmap:** 4-stage sequential learning paths (Core Foundation -> Technical Specialization -> Advanced Mastery -> Projects).
+- **Scalable REST APIs:** 11 FastAPI endpoints serving JSON payloads under 150ms.
+- **Modern React UI:** Interactive dashboard with Recharts visualizations, dark-mode header accents, and responsive layout.
 
 ---
 
@@ -182,7 +182,7 @@ CareerForge-AI/
     └── test_integration.py         # 8 End-to-end integration tests
 ```
 
-> 📌 **Note on Excluded Files:** Large raw dataset files (`data/raw/`), generated CSVs (`data/processed/jobs_cleaned.csv` - 261MB), local database binaries (`database/careerforge.db` - 165MB), heavy model weights (`.joblib`, `.pt`), and `frontend/node_modules/` are excluded from Git tracking via `.gitignore` to adhere to GitHub file size policies (<100MB).
+> **Note on Excluded Files:** Large raw dataset files (`data/raw/`), generated CSVs (`data/processed/jobs_cleaned.csv` - 261MB), local database binaries (`database/careerforge.db` - 165MB), heavy model weights (`.joblib`, `.pt`), and `frontend/node_modules/` are excluded from Git tracking via `.gitignore` to adhere to GitHub file size policies (<100MB).
 
 ---
 
@@ -341,12 +341,12 @@ python tests/test_integration.py
 
 ## 18. Documentation Index
 Detailed technical documentation is available in the `docs/` folder:
-- 📖 [PROJECT_DOCUMENTATION.md](docs/PROJECT_DOCUMENTATION.md) — Comprehensive master technical report.
-- 📐 [SYSTEM_ARCHITECTURE.md](docs/SYSTEM_ARCHITECTURE.md) — Architecture diagrams and layer data flows.
-- 🗄️ [DATABASE_DESIGN.md](docs/DATABASE_DESIGN.md) — ERD diagrams, schema tables, and SQLite queries.
-- 🔌 [API_DOCUMENTATION.md](docs/API_DOCUMENTATION.md) — API contract documentation with sample payloads.
-- 🤖 [MODEL_DOCUMENTATION.md](docs/MODEL_DOCUMENTATION.md) — Machine Learning and PyTorch Deep Learning details.
-- 🧪 [TESTING_REPORT.md](docs/TESTING_REPORT.md) — Test suite logs and sample profile execution outputs.
+- [PROJECT_DOCUMENTATION.md](docs/PROJECT_DOCUMENTATION.md) — Comprehensive master technical report.
+- [SYSTEM_ARCHITECTURE.md](docs/SYSTEM_ARCHITECTURE.md) — Architecture diagrams and layer data flows.
+- [DATABASE_DESIGN.md](docs/DATABASE_DESIGN.md) — ERD diagrams, schema tables, and SQLite queries.
+- [API_DOCUMENTATION.md](docs/API_DOCUMENTATION.md) — API contract documentation with sample payloads.
+- [MODEL_DOCUMENTATION.md](docs/MODEL_DOCUMENTATION.md) — Machine Learning and PyTorch Deep Learning details.
+- [TESTING_REPORT.md](docs/TESTING_REPORT.md) — Test suite logs and sample profile execution outputs.
 
 ---
 
