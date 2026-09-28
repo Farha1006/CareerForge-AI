@@ -1,0 +1,57 @@
+# ==========================================
+# CareerForge AI - Root .gitignore
+# ==========================================
+
+# 1. Large Datasets (>100MB GitHub upload limit)
+data/raw/
+data/processed/*.csv
+!data/processed/analysis/*.csv
+database/*.db
+
+# 2. Machine Learning & Deep Learning Binary Models / Data Arrays
+ml/models/*.joblib
+ml/models/*.npz
+!ml/models/model_metadata.json
+deep_learning/models/*.pt
+deep_learning/models/*.joblib
+deep_learning/models/*.npz
+!deep_learning/models/dl_metadata.json
+
+# 3. Node & Frontend Build Artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# 4. Python Caches & Virtual Environments
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+
+# 5. Environment & Secret Configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 6. IDEs & OS Metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 7. Scratch & Temporary Test Files
+scratch/
+test.png

@@ -1,0 +1,2972 @@
+skill_1,skill_2,cooccurrence_count
+Leadership,Communication,4808
+Excel,Communication,3574
+Communication,Project Management,2113
+Excel,Leadership,1502
+Communication,Problem Solving,1494
+Leadership,Project Management,1296
+Communication,Teamwork,1206
+Communication,Go,1176
+Communication,Agile,1015
+Excel,Project Management,777
+Leadership,Go,735
+Communication,SQL,730
+Leadership,Problem Solving,695
+Leadership,Teamwork,674
+Communication,R,623
+Communication,Python,605
+Leadership,Agile,601
+Excel,Problem Solving,503
+SQL,Python,474
+Communication,Oracle,431
+Communication,AWS,424
+Agile,Scrum,400
+Communication,Azure,395
+Agile,SQL,381
+Project Management,Problem Solving,373
+Leadership,SQL,371
+AWS,Azure,362
+AWS,Python,362
+Excel,Go,359
+Leadership,R,354
+Excel,Teamwork,349
+Communication,Java,333
+Project Management,Agile,331
+Agile,Java,330
+AWS,SQL,314
+Azure,SQL,310
+Communication,BI,305
+Python,Java,302
+Communication,Scrum,297
+Excel,SQL,287
+Agile,Python,284
+AWS,Agile,279
+Project Management,Go,275
+Leadership,Python,272
+SQL,Java,270
+Communication,JavaScript,268
+Oracle,SQL,267
+Azure,Agile,264
+Communication,Jira,261
+Communication,HTML,258
+Agile,Jira,249
+Communication,Linux,247
+Communication,Tableau,240
+Agile,JavaScript,239
+Leadership,AWS,238
+AWS,Java,237
+Excel,R,237
+CSS,HTML,234
+Teamwork,Problem Solving,226
+Azure,Python,225
+Excel,Agile,219
+JavaScript,Java,218
+SQL,ETL,218
+JavaScript,HTML,217
+Project Management,Teamwork,217
+Linux,Python,215
+Communication,React,213
+JavaScript,CSS,209
+Tableau,SQL,209
+SQL,JavaScript,206
+R,Python,205
+Go,Agile,203
+Leadership,Azure,197
+Machine Learning,Python,192
+Communication,Machine Learning,190
+Leadership,BI,190
+AWS,CI/CD,189
+Docker,Kubernetes,188
+Communication,CSS,186
+React,JavaScript,185
+Communication,Business Intelligence,184
+AWS,GCP,183
+Excel,Tableau,179
+Communication,CI/CD,178
+Leadership,Oracle,177
+Communication,GCP,176
+AWS,Linux,175
+Agile,CI/CD,173
+Agile,Git,173
+Python,JavaScript,172
+Agile,Oracle,169
+Communication,Git,169
+Excel,Oracle,167
+Problem Solving,Agile,166
+AWS,Docker,163
+Project Management,SQL,162
+Azure,Java,160
+Leadership,Scrum,160
+AWS,Kubernetes,159
+Excel,BI,159
+Communication,Power BI,158
+Leadership,Java,156
+Leadership,Machine Learning,153
+Leadership,Tableau,153
+Communication,ETL,152
+Azure,GCP,151
+Project Management,R,149
+Go,Problem Solving,148
+SQL,Linux,148
+R,SQL,145
+Agile,React,144
+Python,Docker,141
+Python,CI/CD,140
+SQL,Git,139
+AWS,JavaScript,138
+Excel,Python,137
+Git,Java,136
+Leadership,Jira,136
+Linux,Unix,136
+Project Management,Jira,136
+Teamwork,Go,136
+Agile,HTML,135
+Agile,Linux,135
+Python,Kubernetes,135
+Problem Solving,SQL,134
+Python,Git,134
+SQL,Business Intelligence,133
+BI,SQL,132
+Java,Kubernetes,132
+SQL,Power BI,132
+Azure,CI/CD,130
+Azure,Kubernetes,130
+Communication,Kubernetes,129
+Leadership,Business Intelligence,129
+Docker,Java,128
+Java,CI/CD,128
+Azure,Linux,127
+Project Management,Scrum,127
+Project Management,Oracle,125
+SQL,CI/CD,125
+Communication,Docker,124
+Go,SQL,123
+Python,Spark,123
+Go,Python,122
+JavaScript,Angular,122
+Excel,Power BI,121
+Oracle,Java,121
+Tableau,Python,120
+Agile,Docker,119
+Leadership,JavaScript,119
+Machine Learning,SQL,119
+R,Teamwork,119
+Azure,Docker,117
+SQL,Data Warehouse,116
+Azure,JavaScript,114
+Jira,Scrum,114
+Python,ETL,113
+Agile,Kubernetes,112
+Communication,Spark,112
+JavaScript,TypeScript,111
+JavaScript,Git,110
+Leadership,Linux,110
+SQL,HTML,110
+Teamwork,Agile,110
+AWS,Git,109
+Leadership,HTML,109
+Oracle,Python,109
+Agile,CSS,108
+Linux,Java,107
+AWS,ETL,106
+AWS,Terraform,104
+GCP,Python,104
+Angular,Java,103
+CI/CD,Kubernetes,103
+SQL,Scrum,102
+Agile,Angular,101
+Project Management,Python,101
+SQL,Data Engineering,101
+Communication,Unix,100
+AWS,Machine Learning,99
+AWS,React,99
+Excel,Business Intelligence,98
+HTML,Java,98
+Problem Solving,Python,98
+React,Java,98
+SQL,MySQL,98
+AWS,Oracle,97
+AWS,Spark,97
+R,Problem Solving,97
+SQL,Spark,97
+AWS,Scrum,96
+Docker,CI/CD,96
+SQL,Jira,96
+Tableau,Power BI,96
+Leadership,React,94
+Azure,Git,93
+Git,CI/CD,92
+Java,Scrum,92
+Linux,Docker,92
+SQL,Docker,92
+BI,Business Intelligence,91
+Azure,ETL,90
+SQL,Kubernetes,90
+SQL,Unix,89
+AWS,Go,88
+Python,Data Engineering,88
+Docker,Git,87
+Machine Learning,Agile,87
+R,Go,87
+SQL,CSS,87
+Python,Terraform,86
+React,TypeScript,86
+Agile,ETL,85
+Communication,Data Warehouse,85
+SQL,Snowflake,85
+Go,Java,84
+CSS,Java,83
+ETL,Data Warehouse,83
+Oracle,Linux,83
+React,Angular,83
+Project Management,Azure,82
+Python,Ansible,82
+AWS,Google Cloud,81
+Linux,Kubernetes,81
+Leadership,GCP,80
+Leadership,Power BI,80
+SQL,React,80
+Leadership,CI/CD,79
+Linux,Git,79
+AWS,Ansible,78
+Azure,Oracle,78
+Communication,Angular,78
+React,HTML,78
+SQL,Angular,78
+Azure,Google Cloud,77
+GCP,SQL,77
+Leadership,Google Cloud,77
+Python,React,77
+AWS,Kafka,76
+JavaScript,Scrum,76
+Project Management,AWS,76
+BI,Tableau,75
+Hadoop,Spark,75
+Java,Kafka,75
+React,CSS,75
+Angular,CSS,74
+Communication,Google Cloud,74
+R,Machine Learning,74
+GCP,Kubernetes,73
+Git,Jira,73
+Project Management,BI,73
+Project Management,Tableau,73
+React,CI/CD,73
+AWS,Jira,72
+Azure,Go,72
+Communication,Data Engineering,72
+Excel,Jira,72
+Java,Spark,72
+Linux,CI/CD,72
+R,Agile,72
+Kubernetes,Terraform,71
+Tableau,Business Intelligence,71
+Agile,GitHub,70
+Azure,Scrum,70
+Azure,Terraform,70
+Java,Jira,70
+JavaScript,CI/CD,70
+SQL,PostgreSQL,70
+AWS,Data Engineering,69
+AWS,Unix,69
+Communication,GitHub,69
+Leadership,ETL,69
+Project Management,Business Intelligence,69
+Python,Jira,69
+Python,Scrum,69
+Teamwork,SQL,69
+Agile,TypeScript,68
+Agile,Unix,68
+CI/CD,Scrum,68
+Google Cloud,Python,68
+Machine Learning,Java,68
+Oracle,ETL,68
+React,Git,68
+R,Tableau,67
+Angular,HTML,66
+Azure,Jira,66
+Python,Unix,66
+CI/CD,Terraform,65
+Problem Solving,Scrum,64
+Python,Business Intelligence,64
+Python,GitHub,64
+AWS,PostgreSQL,63
+Communication,TypeScript,63
+Java,MySQL,63
+Java,Unix,63
+JavaScript,Docker,63
+Leadership,Git,63
+Python,Power BI,63
+SQL,Kafka,63
+Ansible,Terraform,62
+Azure,Ansible,62
+Linux,Ansible,62
+Python,Hadoop,62
+Python,Kafka,62
+SQL,Hadoop,62
+AWS,Angular,61
+Azure,React,61
+Communication,PostgreSQL,61
+ETL,Java,61
+GCP,Docker,61
+Leadership,Spark,61
+Oracle,MySQL,61
+Python,Data Warehouse,61
+Python,MySQL,61
+AWS,Problem Solving,60
+Angular,Git,60
+Communication,MySQL,60
+SQL,Databricks,60
+Agile,Kafka,59
+Business Intelligence,Data Warehouse,59
+Communication,Ansible,59
+Communication,Snowflake,59
+Communication,Terraform,59
+Git,Kubernetes,59
+CSS,Git,58
+CSS,TypeScript,58
+Excel,HTML,58
+GCP,Agile,58
+Git,HTML,58
+Go,HTML,58
+Go,Scrum,58
+HTML,TypeScript,58
+Leadership,CSS,58
+Python,Snowflake,58
+Ansible,Kubernetes,57
+ETL,Business Intelligence,57
+Excel,AWS,57
+Go,Oracle,57
+Oracle,JavaScript,57
+Power BI,Business Intelligence,57
+Azure,HTML,56
+Deep Learning,Machine Learning,56
+Git,Scrum,56
+Machine Learning,Spark,56
+Problem Solving,Oracle,56
+Spark,Data Engineering,56
+AWS,GitHub,55
+Agile,Business Intelligence,55
+Azure,Machine Learning,55
+Excel,Azure,55
+Leadership,Data Engineering,55
+Leadership,Docker,55
+SQL,GitHub,55
+Tableau,Agile,55
+Agile,PostgreSQL,54
+BI,ETL,54
+Docker,Terraform,54
+Excel,Machine Learning,54
+Kafka,Kubernetes,54
+Leadership,Kubernetes,54
+Problem Solving,React,54
+Project Management,Machine Learning,54
+Python,Databricks,54
+Python,Scala,54
+Angular,TypeScript,53
+BI,Power BI,53
+Oracle,Unix,53
+Problem Solving,Linux,53
+AWS,MySQL,52
+Go,Machine Learning,52
+Linux,JavaScript,52
+Project Management,HTML,52
+Python,HTML,52
+R,AWS,52
+Teamwork,Python,52
+AWS,Hadoop,51
+ETL,Data Engineering,51
+Problem Solving,Java,51
+BI,Agile,50
+Google Cloud,Agile,50
+JavaScript,Node.js,50
+Kafka,Spark,50
+Machine Learning,TensorFlow,50
+AWS,Data Warehouse,49
+AWS,TypeScript,49
+Azure,Power BI,49
+Go,BI,49
+JavaScript,Kubernetes,49
+Oracle,Git,49
+SQL,TypeScript,49
+Tableau,ETL,49
+Agile,MySQL,48
+Agile,Terraform,48
+Azure,CSS,48
+Azure,Problem Solving,48
+Azure,Spark,48
+Communication,Hadoop,48
+GCP,Java,48
+Leadership,Snowflake,48
+Python,PostgreSQL,48
+Azure,Angular,47
+Communication,Data Mining,47
+ETL,Spark,47
+Excel,React,47
+Git,TypeScript,47
+Leadership,Natural Language Processing,47
+Oracle,Scrum,47
+Problem Solving,JavaScript,47
+Problem Solving,Machine Learning,47
+Project Management,JavaScript,47
+PyTorch,TensorFlow,47
+React,Node.js,47
+React,Scrum,47
+SQL,MongoDB,47
+BI,Data Warehouse,46
+CI/CD,Ansible,46
+CI/CD,GitHub,46
+Communication,Kafka,46
+Linux,Jira,46
+Machine Learning,Tableau,46
+Oracle,Business Intelligence,46
+Python,TensorFlow,46
+Agile,Power BI,45
+Azure,Data Engineering,45
+Azure,Kafka,45
+BI,Python,45
+GCP,CI/CD,45
+Google Cloud,SQL,45
+Leadership,Data Warehouse,45
+Linux,Scrum,45
+Machine Learning,Natural Language Processing,45
+Python,TypeScript,45
+React,Docker,45
+Spark,Scala,45
+Agile,REST API,44
+Azure,Databricks,44
+Docker,Ansible,44
+Java,GitHub,44
+Java,TypeScript,44
+Leadership,Unix,44
+Problem Solving,Tableau,44
+Python,GitLab,44
+Tableau,Oracle,44
+AWS,HTML,43
+AWS,Snowflake,43
+AWS,Tableau,43
+Communication,Node.js,43
+GCP,Linux,43
+Java,MongoDB,43
+Java,REST API,43
+JavaScript,Jira,43
+JavaScript,MySQL,43
+Machine Learning,PyTorch,43
+Problem Solving,HTML,43
+Python,Pandas,43
+SQL,Data Mining,43
+SQL,Terraform,43
+Spark,Hive,43
+AWS,BI,42
+Agile,Ansible,42
+Agile,GitLab,42
+Azure,Data Warehouse,42
+Docker,Jira,42
+Excel,Scrum,42
+GCP,Google Cloud,42
+Java,Hadoop,42
+Machine Learning,Data Engineering,42
+Agile,Data Engineering,41
+CI/CD,GitLab,41
+Docker,Kafka,41
+HTML,CI/CD,41
+Java,Node.js,41
+Java,Terraform,41
+Problem Solving,Jira,41
+Agile,Node.js,40
+Airflow,Python,40
+CI/CD,Jira,40
+Java,Ansible,40
+Java,Scala,40
+Leadership,Data Mining,40
+Leadership,PostgreSQL,40
+Oracle,CI/CD,40
+Oracle,Jira,40
+Project Management,Linux,40
+Python,Angular,40
+AWS,Databricks,39
+AWS,GitLab,39
+AWS,Node.js,39
+BI,Oracle,39
+Communication,REST API,39
+Deep Learning,Python,39
+ETL,Snowflake,39
+Excel,Data Warehouse,39
+GCP,Terraform,39
+Go,CI/CD,39
+Go,Linux,39
+Go,React,39
+Java,PostgreSQL,39
+Kubernetes,Jira,39
+Teamwork,AWS,39
+Agile,Data Warehouse,38
+Agile,MongoDB,38
+Agile,Spark,38
+Azure,GitHub,38
+Git,GitHub,38
+Go,JavaScript,38
+Go,Jira,38
+Go,Tableau,38
+Natural Language Processing,Python,38
+Python,PyTorch,38
+SQL,Scala,38
+AWS,Scala,37
+Agile,Snowflake,37
+Angular,CI/CD,37
+Excel,ETL,37
+Go,Kubernetes,37
+Google Cloud,Java,37
+Hadoop,Hive,37
+Java,Cassandra,37
+Kafka,CI/CD,37
+Linux,MySQL,37
+Project Management,Power BI,37
+Python,CSS,37
+Unix,CI/CD,37
+Communication,Deep Learning,36
+Docker,Scrum,36
+ETL,JavaScript,36
+Git,GitLab,36
+Go,Spark,36
+R,Azure,36
+R,Spark,36
+SQL,Hive,36
+SQL,REST API,36
+Spark,Databricks,36
+Tableau,Data Warehouse,36
+AWS,CSS,35
+Business Intelligence,Data Engineering,35
+Communication,GitLab,35
+Communication,Natural Language Processing,35
+Data Engineering,Data Warehouse,35
+GCP,Problem Solving,35
+GCP,Spark,35
+Google Cloud,Kubernetes,35
+Linux,Terraform,35
+Oracle,Power BI,35
+Problem Solving,BI,35
+Project Management,Java,35
+Python,Django,35
+React,Kubernetes,35
+AWS,Business Intelligence,34
+AWS,MongoDB,34
+JavaScript,PostgreSQL,34
+Machine Learning,Computer Vision,34
+R,Power BI,34
+SQL,Looker,34
+Angular,Scrum,33
+Azure,Business Intelligence,33
+Azure,Snowflake,33
+Docker,GitHub,33
+ETL,Power BI,33
+Excel,Data Mining,33
+GCP,Machine Learning,33
+Git,REST API,33
+Leadership,Angular,33
+Leadership,GitLab,33
+Machine Learning,Docker,33
+Machine Learning,ETL,33
+Machine Learning,Hadoop,33
+Oracle,Data Warehouse,33
+Oracle,PostgreSQL,33
+Problem Solving,CI/CD,33
+Project Management,CSS,33
+Python,Hive,33
+R,Java,33
+Azure,BI,32
+Communication,Computer Vision,32
+Communication,Looker,32
+ETL,Git,32
+Git,Unix,32
+Go,Docker,32
+JavaScript,GitHub,32
+Kubernetes,Scrum,32
+Leadership,MySQL,32
+Linux,PostgreSQL,32
+Machine Learning,Kubernetes,32
+Machine Learning,NLP,32
+MySQL,PostgreSQL,32
+Oracle,Angular,32
+Project Management,GCP,32
+Project Management,React,32
+SQL,PySpark,32
+Tableau,Data Engineering,32
+AWS,Cassandra,31
+Azure,TypeScript,31
+CI/CD,TypeScript,31
+Communication,NLP,31
+ETL,Hadoop,31
+GCP,Go,31
+Hadoop,Data Engineering,31
+Java,Data Engineering,31
+Problem Solving,Business Intelligence,31
+Problem Solving,Unix,31
+Python,Data Mining,31
+Python,NLP,31
+R,BI,31
+React,PostgreSQL,31
+SQL,Ansible,31
+Airflow,SQL,30
+Azure,MySQL,30
+Communication,MongoDB,30
+Docker,TypeScript,30
+Go,Google Cloud,30
+Go,Snowflake,30
+Jira,GitHub,30
+Kubernetes,GitLab,30
+Leadership,GitHub,30
+NumPy,Pandas,30
+Power BI,Data Warehouse,30
+Python,NumPy,30
+Python,Scikit-Learn,30
+SQL,Cassandra,30
+SQL,Pandas,30
+SQL,dbt,30
+Snowflake,Data Engineering,30
+AWS,Airflow,29
+ETL,Databricks,29
+Excel,CSS,29
+GCP,Ansible,29
+Google Cloud,JavaScript,29
+Hadoop,Kafka,29
+JavaScript,REST API,29
+JavaScript,Unix,29
+Problem Solving,Git,29
+Problem Solving,Kubernetes,29
+Project Management,ETL,29
+Python,Data Pipeline,29
+Python,PySpark,29
+Python,dbt,29
+SQL,Data Pipeline,29
+Spark,Kubernetes,29
+Tableau,Snowflake,29
+Tableau,Spark,29
+Teamwork,BI,29
+Teamwork,HTML,29
+Teamwork,Scrum,29
+Unix,Scrum,29
+AWS,Elasticsearch,28
+Angular,Docker,28
+BI,Snowflake,28
+CI/CD,PostgreSQL,28
+Communication,Databricks,28
+Communication,TensorFlow,28
+Data Engineering,Scala,28
+Excel,Java,28
+Excel,JavaScript,28
+Excel,Linux,28
+GCP,ETL,28
+Git,Ansible,28
+GitHub,Scrum,28
+HTML,Scrum,28
+Java,GitLab,28
+Kafka,Data Engineering,28
+Kubernetes,GitHub,28
+Linux,GitHub,28
+Linux,React,28
+Machine Learning,Scikit-Learn,28
+Python,MongoDB,28
+Python,Node.js,28
+Tableau,Looker,28
+Teamwork,Business Intelligence,28
+Teamwork,Java,28
+Teamwork,Machine Learning,28
+Airflow,Spark,27
+CSS,Scrum,27
+Communication,Airflow,27
+Communication,Hive,27
+Databricks,Data Engineering,27
+Deep Learning,TensorFlow,27
+Git,PostgreSQL,27
+Go,Business Intelligence,27
+Google Cloud,CI/CD,27
+Google Cloud,Terraform,27
+Leadership,Ansible,27
+Leadership,Deep Learning,27
+Machine Learning,Business Intelligence,27
+Machine Learning,CI/CD,27
+Machine Learning,Git,27
+Machine Learning,Linux,27
+Oracle,HTML,27
+Problem Solving,ETL,27
+Problem Solving,Power BI,27
+Python,Cassandra,27
+Python,Computer Vision,27
+R,Business Intelligence,27
+R,Linux,27
+R,TensorFlow,27
+React,GitHub,27
+Spark,CI/CD,27
+Spark,PySpark,27
+AWS,Redis,26
+Agile,Cassandra,26
+Angular,Jira,26
+Angular,Kubernetes,26
+Angular,REST API,26
+BI,Data Engineering,26
+Docker,MongoDB,26
+ETL,CI/CD,26
+GCP,Kafka,26
+Git,Terraform,26
+JavaScript,GraphQL,26
+JavaScript,MongoDB,26
+Jira,GitLab,26
+Kafka,Scala,26
+Kubernetes,PostgreSQL,26
+Leadership,Hadoop,26
+Oracle,Docker,26
+Oracle,React,26
+R,Jira,26
+R,Oracle,26
+Snowflake,Data Warehouse,26
+Terraform,GitHub,26
+AWS,PySpark,25
+Agile,Redis,25
+Airflow,Data Engineering,25
+Airflow,ETL,25
+Azure,Tableau,25
+Azure,Unix,25
+CSS,CI/CD,25
+CSS,MySQL,25
+Deep Learning,PyTorch,25
+Docker,GitLab,25
+ETL,MySQL,25
+ETL,Unix,25
+GCP,JavaScript,25
+Go,GitHub,25
+Google Cloud,Docker,25
+Google Cloud,Spark,25
+HTML,Jira,25
+Hadoop,Scala,25
+Java,Redis,25
+Leadership,Databricks,25
+Leadership,Kafka,25
+Leadership,Looker,25
+Leadership,TypeScript,25
+Oracle,Snowflake,25
+Project Management,Spark,25
+Scrum,PostgreSQL,25
+Snowflake,Databricks,25
+Unix,PostgreSQL,25
+Communication,Cassandra,24
+Deep Learning,Computer Vision,24
+Docker,PostgreSQL,24
+Go,Power BI,24
+HTML,MySQL,24
+Kubernetes,MongoDB,24
+Machine Learning,JavaScript,24
+Machine Learning,Pandas,24
+Oracle,Kubernetes,24
+Problem Solving,Docker,24
+Python,Flask,24
+R,Data Engineering,24
+R,GCP,24
+Tableau,Java,24
+Teamwork,Azure,24
+Teamwork,Tableau,24
+AWS,REST API,23
+Agile,Scala,23
+Azure,Cassandra,23
+Azure,Hadoop,23
+Azure,MongoDB,23
+Business Intelligence,Snowflake,23
+Docker,HTML,23
+Excel,Spark,23
+Git,MongoDB,23
+Git,MySQL,23
+Leadership,Terraform,23
+React,Kafka,23
+Spark,Data Warehouse,23
+Tableau,Hadoop,23
+AWS,Hive,22
+AWS,TensorFlow,22
+Communication,Redis,22
+Communication,Scala,22
+Docker,Unix,22
+ETL,Scala,22
+GCP,Data Engineering,22
+GCP,Git,22
+Google Cloud,Oracle,22
+Java,Data Warehouse,22
+Kafka,Hive,22
+Kafka,Scrum,22
+Linux,HTML,22
+Natural Language Processing,NLP,22
+Oracle,REST API,22
+Oracle,Spark,22
+Problem Solving,CSS,22
+Problem Solving,PostgreSQL,22
+Python,Looker,22
+R,Deep Learning,22
+SQL,TensorFlow,22
+Spark,TensorFlow,22
+Teamwork,Oracle,22
+TensorFlow,Scikit-Learn,22
+Agile,Databricks,21
+Azure,Node.js,21
+Azure,Redis,21
+CI/CD,REST API,21
+Communication,Pandas,21
+ETL,Data Pipeline,21
+Excel,GCP,21
+Go,Git,21
+HTML,Node.js,21
+JavaScript,Terraform,21
+Linux,GitLab,21
+Machine Learning,Data Warehouse,21
+Machine Learning,React,21
+R,Hadoop,21
+React,Unix,21
+SQL,GitLab,21
+Scrum,GitLab,21
+AWS,Data Pipeline,20
+Azure,REST API,20
+CI/CD,Data Engineering,20
+CSS,Docker,20
+Communication,PyTorch,20
+Docker,REST API,20
+Git,Kafka,20
+Google Cloud,Natural Language Processing,20
+Hadoop,Cassandra,20
+Kubernetes,TypeScript,20
+Leadership,Computer Vision,20
+Machine Learning,Data Mining,20
+MongoDB,MySQL,20
+Problem Solving,MySQL,20
+Project Management,Data Warehouse,20
+Python,Elasticsearch,20
+React,MySQL,20
+Spark,Data Pipeline,20
+Teamwork,Git,20
+Teamwork,JavaScript,20
+Unix,Kubernetes,20
+AWS,PyTorch,19
+AWS,dbt,19
+Agile,Hadoop,19
+Azure,GitLab,19
+Azure,Scala,19
+BI,Machine Learning,19
+CSS,Jira,19
+Communication,Django,19
+Data Engineering,dbt,19
+ETL,PySpark,19
+GCP,Airflow,19
+Go,ETL,19
+Go,Terraform,19
+Google Cloud,Linux,19
+Java,GraphQL,19
+Kafka,Jira,19
+Kubernetes,Scala,19
+Leadership,Node.js,19
+Linux,ETL,19
+Natural Language Processing,SQL,19
+Oracle,CSS,19
+Oracle,Kafka,19
+Pandas,Scikit-Learn,19
+Python,REST API,19
+Python,Redis,19
+R,Git,19
+R,PyTorch,19
+React,GraphQL,19
+SQL,Django,19
+SQL,Elasticsearch,19
+SQL,NLP,19
+SQL,PyTorch,19
+SQL,Scikit-Learn,19
+Spark,Cassandra,19
+Spark,Snowflake,19
+Tableau,Data Mining,19
+Teamwork,Linux,19
+Teamwork,React,19
+AWS,Deep Learning,18
+AWS,Pandas,18
+Agile,Pandas,18
+Airflow,Data Warehouse,18
+Communication,GraphQL,18
+Deep Learning,SQL,18
+Docker,Cassandra,18
+Docker,Spark,18
+ETL,HTML,18
+ETL,PostgreSQL,18
+GCP,React,18
+GCP,Tableau,18
+Git,Data Engineering,18
+Git,Node.js,18
+Git,Spark,18
+Google Cloud,Machine Learning,18
+Java,Hive,18
+JavaScript,GitLab,18
+JavaScript,Vue.js,18
+Kafka,Cassandra,18
+Kubernetes,Cassandra,18
+Leadership,MongoDB,18
+Leadership,NLP,18
+Machine Learning,Databricks,18
+Natural Language Processing,TensorFlow,18
+Oracle,GitHub,18
+Oracle,MongoDB,18
+Problem Solving,Angular,18
+R,Data Mining,18
+R,Natural Language Processing,18
+R,Snowflake,18
+Snowflake,dbt,18
+Spark,MySQL,18
+Spark,Scrum,18
+AWS,Power BI,17
+Airflow,Java,17
+Angular,Node.js,17
+CSS,Kubernetes,17
+CSS,Node.js,17
+Communication,Data Pipeline,17
+Computer Vision,TensorFlow,17
+Data Engineering,Hive,17
+Databricks,Data Warehouse,17
+Deep Learning,Natural Language Processing,17
+GCP,Data Warehouse,17
+GCP,GitHub,17
+GCP,Hadoop,17
+GCP,Jira,17
+GCP,Scrum,17
+Google Cloud,ETL,17
+GraphQL,TypeScript,17
+JavaScript,Spark,17
+Jira,TypeScript,17
+Kubernetes,Data Engineering,17
+Linux,Kafka,17
+Node.js,CI/CD,17
+Node.js,TypeScript,17
+Project Management,Google Cloud,17
+Project Management,Natural Language Processing,17
+R,Google Cloud,17
+SQL,Node.js,17
+SQL,NumPy,17
+SQL,Redis,17
+Unix,Hadoop,17
+AWS,GraphQL,16
+Agile,Data Mining,16
+Agile,Django,16
+Airflow,dbt,16
+Angular,GitHub,16
+Azure,PostgreSQL,16
+Azure,PySpark,16
+CI/CD,MongoDB,16
+Deep Learning,NLP,16
+Deep Learning,Spark,16
+ETL,Jira,16
+ETL,Kafka,16
+ETL,Kubernetes,16
+Excel,Data Engineering,16
+Git,Cassandra,16
+GitHub,GitLab,16
+GitHub,TypeScript,16
+HTML,Kubernetes,16
+Java,Elasticsearch,16
+Java,Snowflake,16
+JavaScript,Kafka,16
+Kafka,Redis,16
+Keras,TensorFlow,16
+Kubernetes,Redis,16
+Leadership,Scala,16
+Linux,CSS,16
+Machine Learning,Kafka,16
+Machine Learning,Keras,16
+Machine Learning,MySQL,16
+MongoDB,PostgreSQL,16
+Oracle,Ansible,16
+Oracle,Data Mining,16
+Project Management,Docker,16
+PyTorch,Scikit-Learn,16
+R,CI/CD,16
+R,Computer Vision,16
+R,JavaScript,16
+R,Scrum,16
+React,Jira,16
+Scrum,MongoDB,16
+Scrum,MySQL,16
+Spark,dbt,16
+TensorFlow,NLP,16
+Terraform,GitLab,16
+AWS,Natural Language Processing,15
+Agile,PySpark,15
+Airflow,Kafka,15
+Airflow,Kubernetes,15
+Angular,MongoDB,15
+Ansible,GitLab,15
+Azure,Airflow,15
+BI,Java,15
+CI/CD,MySQL,15
+CSS,REST API,15
+Communication,dbt,15
+Data Engineering,Data Pipeline,15
+Django,Flask,15
+ETL,Scrum,15
+ETL,dbt,15
+Excel,Looker,15
+GCP,Snowflake,15
+Go,Ansible,15
+Go,Data Engineering,15
+Go,Data Warehouse,15
+Google Cloud,Git,15
+Google Cloud,Problem Solving,15
+Hadoop,Data Warehouse,15
+Kafka,Terraform,15
+Keras,PyTorch,15
+Machine Learning,GitHub,15
+Machine Learning,Hive,15
+Machine Learning,Oracle,15
+Machine Learning,Scrum,15
+Machine Learning,Snowflake,15
+Node.js,Kubernetes,15
+Oracle,Cassandra,15
+Oracle,Terraform,15
+Project Management,CI/CD,15
+Project Management,Git,15
+React,MongoDB,15
+React,REST API,15
+React,Vue.js,15
+SQL,Flask,15
+Spark,Scikit-Learn,15
+Tableau,Hive,15
+Teamwork,GCP,15
+Teamwork,Jira,15
+Unix,GitHub,15
+Unix,Kafka,15
+Unix,Spark,15
+AWS,Flask,14
+Agile,Elasticsearch,14
+Agile,GraphQL,14
+Agile,NLP,14
+Agile,Vue.js,14
+Airflow,Scala,14
+Ansible,Jira,14
+BI,Databricks,14
+CSS,MongoDB,14
+Communication,PySpark,14
+Communication,Scikit-Learn,14
+Computer Vision,PyTorch,14
+Deep Learning,Scikit-Learn,14
+Docker,Elasticsearch,14
+Docker,MySQL,14
+Docker,Node.js,14
+Excel,Google Cloud,14
+Excel,Snowflake,14
+GCP,Oracle,14
+GCP,TypeScript,14
+Git,Scala,14
+Google Cloud,Data Engineering,14
+Hadoop,CI/CD,14
+JavaScript,Redis,14
+Jira,REST API,14
+Kubernetes,REST API,14
+Leadership,Hive,14
+Leadership,TensorFlow,14
+Linux,Angular,14
+Machine Learning,Airflow,14
+Machine Learning,Power BI,14
+Natural Language Processing,Computer Vision,14
+Natural Language Processing,Java,14
+Natural Language Processing,Scikit-Learn,14
+Natural Language Processing,Spark,14
+NumPy,Scikit-Learn,14
+Power BI,Data Engineering,14
+Power BI,Data Mining,14
+Power BI,Snowflake,14
+Project Management,Data Engineering,14
+Project Management,GitHub,14
+Project Management,Kubernetes,14
+R,Docker,14
+R,ETL,14
+R,GitHub,14
+R,Scikit-Learn,14
+Tableau,Jira,14
+Terraform,MySQL,14
+TypeScript,PostgreSQL,14
+Unix,Hive,14
+Unix,MongoDB,14
+Unix,MySQL,14
+Angular,Kafka,13
+Angular,Unix,13
+Ansible,GitHub,13
+BI,Spark,13
+Business Intelligence,Data Mining,13
+CI/CD,Redis,13
+Databricks,Scala,13
+Docker,Scala,13
+ETL,Docker,13
+GCP,Scala,13
+GCP,Unix,13
+GitHub,MongoDB,13
+Go,Kafka,13
+JavaScript,Ansible,13
+JavaScript,Elasticsearch,13
+Kafka,Data Pipeline,13
+Leadership,REST API,13
+Leadership,Redis,13
+Machine Learning,Jira,13
+Machine Learning,Unix,13
+MongoDB,Cassandra,13
+Problem Solving,GitHub,13
+Project Management,Hadoop,13
+PyTorch,NLP,13
+Python,GraphQL,13
+R,HTML,13
+R,Scala,13
+React,Redis,13
+Scrum,TypeScript,13
+Spark,PyTorch,13
+Terraform,Jira,13
+AWS,Data Mining,12
+AWS,NLP,12
+AWS,NumPy,12
+AWS,Scikit-Learn,12
+Agile,Hive,12
+Angular,MySQL,12
+Angular,PostgreSQL,12
+Angular,Vue.js,12
+Azure,dbt,12
+BI,Jira,12
+BI,Linux,12
+BI,Looker,12
+C++,Agile,12
+C++,Python,12
+CI/CD,Cassandra,12
+CI/CD,Data Warehouse,12
+CI/CD,Scala,12
+CSS,GitHub,12
+CSS,Vue.js,12
+Communication,Elasticsearch,12
+Communication,NumPy,12
+Data Warehouse,Scala,12
+Databricks,PySpark,12
+Django,JavaScript,12
+Docker,Redis,12
+GCP,MySQL,12
+GCP,TensorFlow,12
+Git,Pandas,12
+Go,TypeScript,12
+Google Cloud,Kafka,12
+Google Cloud,React,12
+Google Cloud,Scrum,12
+GraphQL,Kubernetes,12
+HTML,MongoDB,12
+Hadoop,Business Intelligence,12
+Hadoop,PySpark,12
+Hive,Cassandra,12
+Hive,Scala,12
+Java,Databricks,12
+Kafka,Ansible,12
+Kafka,MongoDB,12
+Leadership,PyTorch,12
+Leadership,Scikit-Learn,12
+Machine Learning,HTML,12
+Machine Learning,NumPy,12
+Machine Learning,Scala,12
+Machine Learning,Terraform,12
+Machine Learning,TypeScript,12
+MySQL,Cassandra,12
+Natural Language Processing,JavaScript,12
+Oracle,Databricks,12
+Oracle,PySpark,12
+Power BI,Databricks,12
+Problem Solving,Spark,12
+Project Management,Computer Vision,12
+Project Management,Snowflake,12
+Python,Keras,12
+R,NLP,12
+React,GitLab,12
+React,Terraform,12
+Tableau,Databricks,12
+Teamwork,CSS,12
+Teamwork,Power BI,12
+AWS,Computer Vision,11
+AWS,Django,11
+Agile,Airflow,11
+Agile,NumPy,11
+Agile,dbt,11
+Airflow,CI/CD,11
+Airflow,Hadoop,11
+Airflow,Snowflake,11
+Azure,Data Pipeline,11
+Azure,Elasticsearch,11
+Azure,GraphQL,11
+BI,Data Mining,11
+BI,Hadoop,11
+Communication,C++,11
+Data Warehouse,dbt,11
+Deep Learning,Java,11
+Django,Pandas,11
+Docker,Data Engineering,11
+ETL,Data Mining,11
+ETL,Terraform,11
+Excel,GitHub,11
+Excel,MySQL,11
+GCP,MongoDB,11
+GCP,NLP,11
+GCP,PyTorch,11
+Git,NumPy,11
+Go,CSS,11
+Go,Unix,11
+Google Cloud,Ansible,11
+Google Cloud,GitHub,11
+Google Cloud,Scala,11
+HTML,REST API,11
+Hadoop,Data Pipeline,11
+Hadoop,Databricks,11
+Hadoop,Kubernetes,11
+Hadoop,MySQL,11
+Java,Vue.js,11
+JavaScript,Hadoop,11
+Jira,MongoDB,11
+Kafka,GitHub,11
+Linux,REST API,11
+MySQL,TypeScript,11
+Natural Language Processing,PyTorch,11
+NumPy,Flask,11
+Pandas,Flask,11
+Power BI,Spark,11
+Problem Solving,Data Mining,11
+Problem Solving,Terraform,11
+Problem Solving,TypeScript,11
+Project Management,Deep Learning,11
+Project Management,Unix,11
+React,Django,11
+Scala,Data Pipeline,11
+Scrum,REST API,11
+Spark,Terraform,11
+Tableau,GitHub,11
+Tableau,Scala,11
+Terraform,Scrum,11
+Terraform,TypeScript,11
+Airflow,Databricks,10
+Airflow,Docker,10
+Airflow,Git,10
+Ansible,Scrum,10
+Azure,Hive,10
+Business Intelligence,Databricks,10
+Business Intelligence,Jira,10
+C++,Java,10
+Cassandra,Redis,10
+Communication,C#,10
+Communication,Flask,10
+Communication,Vue.js,10
+Data Engineering,Pandas,10
+Django,Docker,10
+Django,Git,10
+Django,NumPy,10
+Docker,GraphQL,10
+Docker,Hadoop,10
+Docker,PyTorch,10
+ETL,Angular,10
+Excel,CI/CD,10
+Excel,Unix,10
+GCP,BI,10
+GCP,Databricks,10
+GCP,Hive,10
+GCP,PySpark,10
+Git,Data Warehouse,10
+Git,Redis,10
+Git,Vue.js,10
+Go,Angular,10
+Go,Looker,10
+Google Cloud,GitLab,10
+HTML,Vue.js,10
+Hive,PySpark,10
+Java,Data Pipeline,10
+Java,Power BI,10
+JavaScript,Business Intelligence,10
+Jira,MySQL,10
+Leadership,Data Pipeline,10
+Leadership,Pandas,10
+Linux,Hadoop,10
+Linux,Snowflake,10
+Looker,Data Engineering,10
+Looker,Snowflake,10
+Machine Learning,CSS,10
+Machine Learning,Cassandra,10
+Machine Learning,MongoDB,10
+MongoDB,TypeScript,10
+Node.js,Scrum,10
+Oracle,Data Engineering,10
+Oracle,GitLab,10
+Power BI,Jira,10
+Problem Solving,Kafka,10
+Problem Solving,Natural Language Processing,10
+Project Management,Data Mining,10
+Project Management,MySQL,10
+R,Data Warehouse,10
+R,Hive,10
+REST API,MongoDB,10
+Rust,Communication,10
+SQL,Computer Vision,10
+Scikit-Learn,NLP,10
+Scrum,Data Warehouse,10
+Spark,Business Intelligence,10
+Spark,GitLab,10
+Tableau,JavaScript,10
+Tableau,Kafka,10
+Tableau,MySQL,10
+TensorFlow,Pandas,10
+Unix,Ansible,10
+Unix,Jira,10
+AWS,C++,9
+Agile,C#,9
+Agile,Flask,9
+Airflow,Data Pipeline,9
+Angular,GitLab,9
+Azure,NLP,9
+Azure,Pandas,9
+Azure,TensorFlow,9
+C++,Git,9
+CI/CD,Databricks,9
+CI/CD,Elasticsearch,9
+CI/CD,GraphQL,9
+CI/CD,TensorFlow,9
+CSS,GraphQL,9
+CSS,Kafka,9
+Cassandra,Elasticsearch,9
+Data Engineering,PostgreSQL,9
+Data Warehouse,Data Pipeline,9
+Deep Learning,Keras,9
+Deep Learning,Pandas,9
+Django,CI/CD,9
+Docker,TensorFlow,9
+ETL,CSS,9
+ETL,Hive,9
+ETL,Looker,9
+ETL,React,9
+Excel,Hadoop,9
+GCP,Business Intelligence,9
+GCP,Data Pipeline,9
+GCP,GitLab,9
+Git,Elasticsearch,9
+GitHub,MySQL,9
+Go,Data Mining,9
+Go,GitLab,9
+Go,Hadoop,9
+Go,PostgreSQL,9
+Go,REST API,9
+Google Cloud,CSS,9
+Google Cloud,HTML,9
+Google Cloud,MySQL,9
+Google Cloud,Tableau,9
+Google Cloud,TensorFlow,9
+HTML,Kafka,9
+HTML,Power BI,9
+Hadoop,MongoDB,9
+Java,Business Intelligence,9
+Java,NLP,9
+Java,PySpark,9
+Java,dbt,9
+JavaScript,Power BI,9
+Jira,PostgreSQL,9
+Kafka,GitLab,9
+Kubernetes,MySQL,9
+Leadership,Airflow,9
+Leadership,Elasticsearch,9
+Leadership,Flask,9
+Leadership,NumPy,9
+Linux,Elasticsearch,9
+Linux,Spark,9
+Machine Learning,Flask,9
+MongoDB,Elasticsearch,9
+MongoDB,Redis,9
+Natural Language Processing,Agile,9
+Node.js,GraphQL,9
+NumPy,SciPy,9
+Pandas,SciPy,9
+PostgreSQL,Elasticsearch,9
+Power BI,GitHub,9
+Power BI,Looker,9
+Power BI,Scrum,9
+Problem Solving,Data Warehouse,9
+Project Management,Angular,9
+Project Management,Databricks,9
+Project Management,TypeScript,9
+PyTorch,Pandas,9
+Python,FastAPI,9
+Python,Julia,9
+R,Kafka,9
+R,Kubernetes,9
+R,React,9
+REST API,TypeScript,9
+React,Elasticsearch,9
+Rust,Python,9
+SQL,GraphQL,9
+Spark,MongoDB,9
+Teamwork,CI/CD,9
+Terraform,PostgreSQL,9
+Terraform,Redis,9
+Unix,REST API,9
+AWS,Keras,8
+Agile,Computer Vision,8
+Agile,TensorFlow,8
+Airflow,Terraform,8
+Azure,C++,8
+BI,Git,8
+BI,JavaScript,8
+BI,React,8
+Business Intelligence,Looker,8
+CI/CD,NLP,8
+CI/CD,PyTorch,8
+Computer Vision,Scikit-Learn,8
+Data Engineering,Cassandra,8
+Data Engineering,GitLab,8
+Data Engineering,MySQL,8
+Deep Learning,Hadoop,8
+Django,Jira,8
+Docker,Flask,8
+Excel,Databricks,8
+Excel,Kubernetes,8
+GCP,Cassandra,8
+GCP,PostgreSQL,8
+Git,Snowflake,8
+GitHub,Data Warehouse,8
+GitHub,Snowflake,8
+Go,Databricks,8
+Go,Deep Learning,8
+Go,Node.js,8
+HTML,GitHub,8
+Hadoop,Scrum,8
+Hadoop,Snowflake,8
+Hadoop,TensorFlow,8
+Java,Computer Vision,8
+Java,TensorFlow,8
+JavaScript,Data Engineering,8
+JavaScript,Flask,8
+Kafka,Data Warehouse,8
+Kafka,Databricks,8
+Kafka,MySQL,8
+Kafka,PostgreSQL,8
+Kafka,PySpark,8
+Kafka,TypeScript,8
+Kafka,dbt,8
+Kubernetes,Elasticsearch,8
+Linux,Business Intelligence,8
+Linux,Cassandra,8
+Linux,Scala,8
+Linux,TypeScript,8
+Machine Learning,GitLab,8
+Machine Learning,PostgreSQL,8
+MySQL,Hive,8
+Natural Language Processing,Data Engineering,8
+Natural Language Processing,Linux,8
+Natural Language Processing,MySQL,8
+Oracle,Hadoop,8
+Oracle,Redis,8
+PostgreSQL,Redis,8
+Problem Solving,Cassandra,8
+Problem Solving,Data Engineering,8
+Problem Solving,GraphQL,8
+Problem Solving,Node.js,8
+Problem Solving,Scikit-Learn,8
+Project Management,Ansible,8
+Project Management,Terraform,8
+Python,SciPy,8
+R,GitLab,8
+R,Keras,8
+R,Pandas,8
+React,Spark,8
+Rust,Java,8
+SQL,Keras,8
+Scikit-Learn,SciPy,8
+Scrum,Hive,8
+Scrum,PySpark,8
+Snowflake,PostgreSQL,8
+Spark,Computer Vision,8
+Spark,Data Mining,8
+Spark,Jira,8
+Spark,Keras,8
+Spark,Pandas,8
+Spark,PostgreSQL,8
+Tableau,Linux,8
+Tableau,Scrum,8
+Tableau,Unix,8
+Teamwork,Data Mining,8
+Teamwork,Data Warehouse,8
+Teamwork,ETL,8
+Teamwork,Natural Language Processing,8
+Terraform,Cassandra,8
+Unix,Data Engineering,8
+Unix,PySpark,8
+Agile,Data Pipeline,7
+Angular,Elasticsearch,7
+Angular,Terraform,7
+Azure,Data Mining,7
+Azure,Deep Learning,7
+Azure,Django,7
+Azure,PyTorch,7
+BI,Airflow,7
+BI,Scala,7
+BI,Scrum,7
+Business Intelligence,Scrum,7
+C++,Linux,7
+Communication,Julia,7
+Computer Vision,NLP,7
+Data Engineering,NLP,7
+Data Engineering,PySpark,7
+Data Mining,Scikit-Learn,7
+Data Warehouse,Hive,7
+Deep Learning,Data Engineering,7
+Deep Learning,Docker,7
+Django,CSS,7
+Django,HTML,7
+Docker,Databricks,7
+ETL,GitHub,7
+ETL,GitLab,7
+ETL,Pandas,7
+Excel,Git,7
+Excel,Scala,7
+GCP,Deep Learning,7
+GCP,Node.js,7
+GCP,Power BI,7
+Git,Computer Vision,7
+Git,Flask,7
+GitHub,Data Engineering,7
+GitHub,Redis,7
+GitLab,TypeScript,7
+Go,MySQL,7
+Go,Natural Language Processing,7
+Go,Redis,7
+Google Cloud,Hadoop,7
+Google Cloud,Jira,7
+Google Cloud,Redis,7
+Google Cloud,TypeScript,7
+HTML,Ansible,7
+HTML,Unix,7
+Hive,Data Pipeline,7
+Java,NumPy,7
+Java,Pandas,7
+Jira,Cassandra,7
+Jira,Data Engineering,7
+Jira,Data Warehouse,7
+Kafka,Elasticsearch,7
+Kafka,Snowflake,7
+Keras,Scikit-Learn,7
+Kubernetes,Data Warehouse,7
+Leadership,Cassandra,7
+Leadership,Django,7
+Linux,Django,7
+Machine Learning,Angular,7
+MySQL,Redis,7
+Natural Language Processing,Data Mining,7
+Node.js,GitHub,7
+Node.js,MongoDB,7
+Node.js,MySQL,7
+Node.js,Terraform,7
+NumPy,NLP,7
+Oracle,Hive,7
+Oracle,TypeScript,7
+Pandas,NLP,7
+Problem Solving,Airflow,7
+Problem Solving,GitLab,7
+Problem Solving,NLP,7
+Problem Solving,Scala,7
+Problem Solving,TensorFlow,7
+Project Management,TensorFlow,7
+R,Databricks,7
+R,Looker,7
+R,MySQL,7
+R,Unix,7
+React,Ansible,7
+React,Flask,7
+Rust,AWS,7
+SQL,C#,7
+Scrum,Scala,7
+Snowflake,Data Pipeline,7
+Snowflake,Scala,7
+Spark,GitHub,7
+Tableau,HTML,7
+Teamwork,Angular,7
+Teamwork,Data Engineering,7
+Teamwork,Deep Learning,7
+Teamwork,Docker,7
+Teamwork,Hadoop,7
+Teamwork,Kubernetes,7
+Teamwork,NLP,7
+TensorFlow,Data Engineering,7
+Terraform,Data Engineering,7
+Terraform,dbt,7
+Unix,Elasticsearch,7
+dbt,Data Pipeline,7
+Agile,PyTorch,6
+Agile,Scikit-Learn,6
+Airflow,Business Intelligence,6
+Airflow,Hive,6
+Airflow,Linux,6
+Airflow,PyTorch,6
+Airflow,TensorFlow,6
+Angular,GraphQL,6
+Ansible,Cassandra,6
+Ansible,REST API,6
+BI,Angular,6
+BI,CI/CD,6
+BI,MySQL,6
+BI,Unix,6
+C++,SQL,6
+CI/CD,Snowflake,6
+CSS,GitLab,6
+CSS,PostgreSQL,6
+CSS,Unix,6
+Data Engineering,MongoDB,6
+Data Mining,MySQL,6
+Data Mining,NLP,6
+Data Warehouse,Data Mining,6
+Data Warehouse,PySpark,6
+Databricks,Hive,6
+Databricks,Pandas,6
+Deep Learning,Cassandra,6
+Deep Learning,Data Mining,6
+Deep Learning,Linux,6
+Deep Learning,Tableau,6
+Django,Java,6
+Django,NLP,6
+Django,PostgreSQL,6
+Django,Scrum,6
+Docker,Computer Vision,6
+Docker,Snowflake,6
+ETL,Cassandra,6
+ETL,TypeScript,6
+Excel,Angular,6
+Flask,NLP,6
+GCP,Computer Vision,6
+GCP,GraphQL,6
+GCP,Natural Language Processing,6
+GCP,Redis,6
+GCP,dbt,6
+Git,Data Pipeline,6
+Git,Databricks,6
+Git,GraphQL,6
+GitHub,dbt,6
+GitLab,Scala,6
+Go,Scala,6
+Go,TensorFlow,6
+Google Cloud,Hive,6
+Google Cloud,PySpark,6
+Google Cloud,Unix,6
+HTML,Business Intelligence,6
+HTML,GraphQL,6
+Hadoop,Data Mining,6
+Hadoop,Elasticsearch,6
+Hadoop,Scikit-Learn,6
+Hadoop,Terraform,6
+Java,Flask,6
+JavaScript,C#,6
+JavaScript,Pandas,6
+JavaScript,PySpark,6
+JavaScript,Snowflake,6
+JavaScript,dbt,6
+Jira,NumPy,6
+Jira,Pandas,6
+Jira,Snowflake,6
+Kafka,REST API,6
+Keras,NLP,6
+Kubernetes,Data Pipeline,6
+Kubernetes,PyTorch,6
+Kubernetes,TensorFlow,6
+Kubernetes,dbt,6
+Leadership,GraphQL,6
+Leadership,PySpark,6
+Leadership,Vue.js,6
+Leadership,dbt,6
+Linux,Computer Vision,6
+Linux,Hive,6
+Looker,Data Warehouse,6
+Machine Learning,Data Pipeline,6
+Machine Learning,Node.js,6
+Machine Learning,PySpark,6
+Machine Learning,SciPy,6
+Machine Learning,dbt,6
+MongoDB,Hive,6
+MySQL,Elasticsearch,6
+MySQL,Pandas,6
+Natural Language Processing,Keras,6
+Natural Language Processing,Pandas,6
+Oracle,NLP,6
+Oracle,NumPy,6
+Oracle,Scala,6
+Power BI,CI/CD,6
+Problem Solving,Computer Vision,6
+Problem Solving,Django,6
+Problem Solving,Pandas,6
+Project Management,GraphQL,6
+Project Management,Kafka,6
+PySpark,Scala,6
+PySpark,dbt,6
+Python,C#,6
+Python,Matplotlib,6
+R,CSS,6
+R,Terraform,6
+R,dbt,6
+REST API,Cassandra,6
+REST API,MySQL,6
+React,Cassandra,6
+React,Hadoop,6
+React,Pandas,6
+Redis,Elasticsearch,6
+Rust,Go,6
+Scrum,Cassandra,6
+Scrum,Data Engineering,6
+Scrum,Redis,6
+Snowflake,Cassandra,6
+Snowflake,MongoDB,6
+Snowflake,MySQL,6
+Snowflake,Scrum,6
+Spark,Looker,6
+Spark,NLP,6
+Spark,REST API,6
+Spark,Redis,6
+Tableau,Airflow,6
+Tableau,CI/CD,6
+Tableau,Git,6
+Tableau,MongoDB,6
+Tableau,PySpark,6
+Tableau,TensorFlow,6
+Teamwork,Google Cloud,6
+Teamwork,MongoDB,6
+Teamwork,MySQL,6
+Teamwork,Node.js,6
+Teamwork,PyTorch,6
+Teamwork,Spark,6
+Teamwork,TensorFlow,6
+Teamwork,Terraform,6
+Teamwork,TypeScript,6
+TensorFlow,NumPy,6
+Terraform,Elasticsearch,6
+Terraform,PySpark,6
+TypeScript,Elasticsearch,6
+Unix,Cassandra,6
+Unix,Snowflake,6
+dbt,Scala,6
+AWS,SciPy,5
+Airflow,Jira,5
+Angular,Ansible,5
+Angular,Redis,5
+Ansible,Elasticsearch,5
+Ansible,PostgreSQL,5
+Azure,C#,5
+Azure,Computer Vision,5
+Azure,Flask,5
+Business Intelligence,CI/CD,5
+Business Intelligence,Pandas,5
+Business Intelligence,PostgreSQL,5
+Business Intelligence,Scala,5
+Business Intelligence,dbt,5
+CI/CD,C#,5
+CI/CD,Flask,5
+CI/CD,NumPy,5
+CI/CD,Pandas,5
+CI/CD,PySpark,5
+CSS,Ansible,5
+Communication,Keras,5
+Computer Vision,Keras,5
+Data Mining,Pandas,5
+Databricks,MongoDB,5
+Deep Learning,CI/CD,5
+Deep Learning,NumPy,5
+Deep Learning,Scala,5
+Django,Angular,5
+Django,FastAPI,5
+Django,MySQL,5
+Docker,Data Warehouse,5
+Docker,Pandas,5
+Excel,Deep Learning,5
+Excel,Docker,5
+Excel,Hive,5
+Excel,MongoDB,5
+Excel,Rust,5
+GCP,Angular,5
+GCP,CSS,5
+GCP,HTML,5
+Git,Business Intelligence,5
+Git,FastAPI,5
+Git,Hadoop,5
+Git,Power BI,5
+GitHub,REST API,5
+GitLab,Cassandra,5
+GitLab,MySQL,5
+Go,MongoDB,5
+Go,PyTorch,5
+Go,dbt,5
+Google Cloud,Data Pipeline,5
+Google Cloud,GraphQL,5
+Google Cloud,Looker,5
+Google Cloud,MongoDB,5
+Google Cloud,Node.js,5
+Google Cloud,PostgreSQL,5
+Google Cloud,dbt,5
+GraphQL,Scrum,5
+GraphQL,Terraform,5
+HTML,Data Warehouse,5
+HTML,GitLab,5
+HTML,PostgreSQL,5
+HTML,Redis,5
+HTML,Spark,5
+Hadoop,Keras,5
+Hadoop,Pandas,5
+Java,C#,5
+Java,Data Mining,5
+Java,Scikit-Learn,5
+JavaScript,Cassandra,5
+JavaScript,Data Warehouse,5
+Jira,Data Mining,5
+Jira,FastAPI,5
+Jira,Flask,5
+Jira,Scala,5
+Keras,Data Engineering,5
+Keras,Pandas,5
+Kubernetes,Databricks,5
+Leadership,Keras,5
+Linux,Flask,5
+Linux,MongoDB,5
+Looker,Data Pipeline,5
+Machine Learning,Django,5
+Machine Learning,Julia,5
+Machine Learning,Looker,5
+MySQL,NumPy,5
+MySQL,PySpark,5
+MySQL,Scikit-Learn,5
+MySQL,dbt,5
+Natural Language Processing,CSS,5
+Natural Language Processing,Data Pipeline,5
+Natural Language Processing,Django,5
+Natural Language Processing,ETL,5
+Natural Language Processing,HTML,5
+Natural Language Processing,Hadoop,5
+Natural Language Processing,NumPy,5
+Natural Language Processing,PostgreSQL,5
+Natural Language Processing,SciPy,5
+Natural Language Processing,Scrum,5
+Node.js,Jira,5
+Node.js,REST API,5
+Oracle,Django,5
+Oracle,Pandas,5
+Oracle,dbt,5
+Pandas,FastAPI,5
+Pandas,Matplotlib,5
+PostgreSQL,Cassandra,5
+Power BI,Hive,5
+Power BI,Kafka,5
+Power BI,MySQL,5
+Power BI,Pandas,5
+Problem Solving,Ansible,5
+Problem Solving,C#,5
+Problem Solving,Deep Learning,5
+Problem Solving,Hadoop,5
+Problem Solving,Looker,5
+Problem Solving,MongoDB,5
+Problem Solving,REST API,5
+Project Management,Looker,5
+Project Management,NLP,5
+Project Management,Node.js,5
+Project Management,PostgreSQL,5
+PySpark,Data Pipeline,5
+PyTorch,Data Engineering,5
+PyTorch,Data Mining,5
+Python,Vue.js,5
+R,Airflow,5
+R,Data Pipeline,5
+R,MongoDB,5
+R,TypeScript,5
+React,NumPy,5
+Rust,Agile,5
+Rust,Kubernetes,5
+Rust,Linux,5
+Rust,Problem Solving,5
+Scrum,Pandas,5
+Spark,Elasticsearch,5
+Spark,TypeScript,5
+Tableau,NLP,5
+Tableau,PostgreSQL,5
+Tableau,PyTorch,5
+Teamwork,Ansible,5
+Teamwork,C++,5
+Teamwork,REST API,5
+Teamwork,Unix,5
+TensorFlow,Data Mining,5
+TypeScript,Redis,5
+Unix,Data Warehouse,5
+Unix,Databricks,5
+Unix,GitLab,5
+Unix,TypeScript,5
+AWS,C#,4
+AWS,Looker,4
+AWS,Vue.js,4
+Agile,Looker,4
+Agile,SciPy,4
+Airflow,Cassandra,4
+Airflow,Julia,4
+Airflow,Looker,4
+Airflow,NLP,4
+Angular,Data Engineering,4
+Angular,Data Warehouse,4
+Angular,Spark,4
+Ansible,MySQL,4
+Ansible,Redis,4
+Ansible,Scala,4
+Ansible,TypeScript,4
+BI,CSS,4
+BI,GitHub,4
+BI,HTML,4
+BI,Hive,4
+BI,REST API,4
+Business Intelligence,GitHub,4
+Business Intelligence,MySQL,4
+C++,Cassandra,4
+C++,Jira,4
+CI/CD,Computer Vision,4
+CI/CD,FastAPI,4
+CI/CD,Hive,4
+CSS,Cassandra,4
+CSS,Power BI,4
+Cassandra,Scala,4
+Data Engineering,REST API,4
+Data Mining,Flask,4
+Data Mining,NumPy,4
+Data Mining,PostgreSQL,4
+Data Warehouse,Cassandra,4
+Data Warehouse,MySQL,4
+Data Warehouse,Pandas,4
+Databricks,Cassandra,4
+Deep Learning,Agile,4
+Deep Learning,Databricks,4
+Deep Learning,Hive,4
+Deep Learning,Kubernetes,4
+Deep Learning,MongoDB,4
+Django,GitLab,4
+Django,Scikit-Learn,4
+Django,TypeScript,4
+Docker,NLP,4
+ETL,Ansible,4
+ETL,NLP,4
+ETL,NumPy,4
+ETL,TensorFlow,4
+Excel,Airflow,4
+Excel,NLP,4
+Excel,Node.js,4
+Excel,Pandas,4
+Flask,FastAPI,4
+GCP,Django,4
+GCP,Elasticsearch,4
+GCP,Keras,4
+GCP,Looker,4
+GCP,REST API,4
+Git,Hive,4
+Git,NLP,4
+Git,PySpark,4
+Git,PyTorch,4
+Git,TensorFlow,4
+GitHub,Cassandra,4
+GitHub,PostgreSQL,4
+GitHub,PySpark,4
+GitLab,REST API,4
+Go,Airflow,4
+Go,Computer Vision,4
+Go,GraphQL,4
+Go,Keras,4
+Go,Pandas,4
+Google Cloud,Angular,4
+Google Cloud,Computer Vision,4
+Google Cloud,NLP,4
+Google Cloud,Scikit-Learn,4
+Google Cloud,Snowflake,4
+HTML,C#,4
+HTML,Snowflake,4
+Hadoop,GitLab,4
+Hadoop,Jira,4
+Hadoop,NLP,4
+Hadoop,PostgreSQL,4
+Hadoop,PyTorch,4
+Hadoop,Redis,4
+Hive,Scikit-Learn,4
+Java,Keras,4
+Java,Looker,4
+Java,PyTorch,4
+JavaScript,FastAPI,4
+JavaScript,NumPy,4
+JavaScript,Scala,4
+Jira,C#,4
+Jira,Computer Vision,4
+Kafka,Business Intelligence,4
+Kubernetes,NLP,4
+Kubernetes,Snowflake,4
+Leadership,Rust,4
+Leadership,SciPy,4
+Linux,Data Warehouse,4
+Linux,FastAPI,4
+Linux,GraphQL,4
+Linux,Node.js,4
+Linux,Pandas,4
+Linux,PyTorch,4
+Linux,TensorFlow,4
+Looker,Hive,4
+Looker,Scala,4
+Looker,dbt,4
+Machine Learning,Elasticsearch,4
+MongoDB,Pandas,4
+MongoDB,Scala,4
+MySQL,Flask,4
+MySQL,SciPy,4
+MySQL,Vue.js,4
+NLP,SciPy,4
+Natural Language Processing,Flask,4
+Natural Language Processing,Oracle,4
+Natural Language Processing,React,4
+Natural Language Processing,Scala,4
+Natural Language Processing,TypeScript,4
+Node.js,Cassandra,4
+Node.js,Hadoop,4
+Node.js,Redis,4
+Node.js,Spark,4
+NumPy,FastAPI,4
+NumPy,Matplotlib,4
+Oracle,Elasticsearch,4
+Oracle,Scikit-Learn,4
+Pandas,dbt,4
+PostgreSQL,Flask,4
+PostgreSQL,NLP,4
+PostgreSQL,NumPy,4
+PostgreSQL,Pandas,4
+Power BI,Cassandra,4
+Power BI,Hadoop,4
+Problem Solving,NumPy,4
+Problem Solving,SciPy,4
+Problem Solving,Snowflake,4
+Problem Solving,dbt,4
+Project Management,Elasticsearch,4
+Project Management,Hive,4
+Project Management,Scikit-Learn,4
+PyTorch,Flask,4
+PyTorch,NumPy,4
+Python,SQLAlchemy,4
+R,Angular,4
+R,Ansible,4
+R,C++,4
+R,Julia,4
+R,PostgreSQL,4
+R,PySpark,4
+REST API,Elasticsearch,4
+REST API,NumPy,4
+REST API,Pandas,4
+REST API,PostgreSQL,4
+REST API,Redis,4
+REST API,Scala,4
+React,Business Intelligence,4
+React,C#,4
+React,Data Engineering,4
+React,Data Warehouse,4
+React,FastAPI,4
+React,NLP,4
+React,Scikit-Learn,4
+Rust,Docker,4
+Rust,GCP,4
+Rust,Kafka,4
+Rust,SQL,4
+Rust,Spark,4
+Rust,dbt,4
+SQL,Matplotlib,4
+SQL,SciPy,4
+SQL,Vue.js,4
+Scikit-Learn,Flask,4
+Scrum,Data Mining,4
+Scrum,Databricks,4
+Scrum,Flask,4
+Scrum,NLP,4
+Scrum,NumPy,4
+Scrum,Scikit-Learn,4
+Scrum,Vue.js,4
+Snowflake,Hive,4
+Snowflake,Pandas,4
+Snowflake,PySpark,4
+Spark,Ansible,4
+Spark,NumPy,4
+Tableau,Cassandra,4
+Tableau,Data Pipeline,4
+Tableau,Pandas,4
+Tableau,dbt,4
+Teamwork,Databricks,4
+Teamwork,GitHub,4
+Teamwork,GitLab,4
+Teamwork,Pandas,4
+Teamwork,PostgreSQL,4
+TensorFlow,Hive,4
+Terraform,PyTorch,4
+Terraform,TensorFlow,4
+TypeScript,Vue.js,4
+Unix,Scala,4
+Unix,TensorFlow,4
+AWS,Matplotlib,3
+Airflow,Flask,3
+Airflow,GitHub,3
+Airflow,JavaScript,3
+Airflow,NumPy,3
+Airflow,Pandas,3
+Airflow,PostgreSQL,3
+Airflow,Unix,3
+Angular,Cassandra,3
+Ansible,Data Warehouse,3
+Azure,Keras,3
+Azure,Natural Language Processing,3
+Azure,NumPy,3
+BI,Data Pipeline,3
+BI,Docker,3
+BI,Kafka,3
+BI,Kubernetes,3
+BI,PySpark,3
+BI,dbt,3
+Business Intelligence,Cassandra,3
+Business Intelligence,MongoDB,3
+C++,Elasticsearch,3
+C++,JavaScript,3
+CI/CD,Data Pipeline,3
+CI/CD,Scikit-Learn,3
+CI/CD,Vue.js,3
+CI/CD,dbt,3
+CSS,Business Intelligence,3
+CSS,Elasticsearch,3
+CSS,Flask,3
+CSS,Redis,3
+CSS,Spark,3
+Cassandra,Pandas,3
+Communication,Matplotlib,3
+Communication,SciPy,3
+Computer Vision,Pandas,3
+Data Engineering,Elasticsearch,3
+Data Engineering,NumPy,3
+Data Engineering,Scikit-Learn,3
+Data Mining,Data Pipeline,3
+Data Mining,SciPy,3
+Data Pipeline,Scikit-Learn,3
+Data Warehouse,PostgreSQL,3
+Databricks,Elasticsearch,3
+Databricks,Flask,3
+Databricks,PyTorch,3
+Databricks,REST API,3
+Databricks,Scikit-Learn,3
+Databricks,TensorFlow,3
+Deep Learning,Data Pipeline,3
+Deep Learning,ETL,3
+Deep Learning,Git,3
+Deep Learning,Jira,3
+Deep Learning,Matplotlib,3
+Deep Learning,Oracle,3
+Deep Learning,SciPy,3
+Deep Learning,Unix,3
+Django,Data Mining,3
+Django,Databricks,3
+Django,Kafka,3
+Django,Node.js,3
+Django,REST API,3
+Django,SciPy,3
+Docker,FastAPI,3
+Docker,NumPy,3
+Docker,Vue.js,3
+ETL,MongoDB,3
+ETL,Node.js,3
+ETL,REST API,3
+Excel,Ansible,3
+Excel,Kafka,3
+Excel,PySpark,3
+Excel,Scikit-Learn,3
+Excel,TensorFlow,3
+Flask,SciPy,3
+GCP,Flask,3
+GCP,Julia,3
+GCP,Pandas,3
+Git,C#,3
+Git,dbt,3
+GitHub,Databricks,3
+GitHub,Hive,3
+GitHub,Pandas,3
+GitLab,Elasticsearch,3
+GitLab,FastAPI,3
+GitLab,Flask,3
+GitLab,NumPy,3
+GitLab,Pandas,3
+GitLab,PostgreSQL,3
+Go,C#,3
+Go,C++,3
+Go,Hive,3
+Go,Scikit-Learn,3
+Google Cloud,Airflow,3
+Google Cloud,Data Warehouse,3
+Google Cloud,Databricks,3
+Google Cloud,PyTorch,3
+GraphQL,GitHub,3
+GraphQL,Jira,3
+GraphQL,MySQL,3
+HTML,Cassandra,3
+HTML,Data Engineering,3
+HTML,Elasticsearch,3
+HTML,Hadoop,3
+Hadoop,GitHub,3
+Hadoop,Looker,3
+Hadoop,NumPy,3
+Hadoop,REST API,3
+Hive,Elasticsearch,3
+Hive,Pandas,3
+JavaScript,NLP,3
+JavaScript,SQLAlchemy,3
+JavaScript,TensorFlow,3
+Jira,Data Pipeline,3
+Jira,Elasticsearch,3
+Jira,NLP,3
+Jira,Redis,3
+Kafka,C#,3
+Kafka,GraphQL,3
+Kafka,Looker,3
+Keras,Hive,3
+Kubernetes,Julia,3
+Kubernetes,Pandas,3
+Kubernetes,PySpark,3
+Leadership,C++,3
+Leadership,FastAPI,3
+Linux,Data Mining,3
+Linux,Databricks,3
+Linux,NumPy,3
+Linux,Redis,3
+Looker,Data Mining,3
+Machine Learning,Ansible,3
+Machine Learning,C#,3
+Machine Learning,C++,3
+Machine Learning,GraphQL,3
+Machine Learning,Matplotlib,3
+Machine Learning,Redis,3
+Machine Learning,Seaborn,3
+MongoDB,PySpark,3
+MySQL,Data Pipeline,3
+MySQL,NLP,3
+MySQL,Scala,3
+Natural Language Processing,Docker,3
+Natural Language Processing,Git,3
+Natural Language Processing,Tableau,3
+Node.js,GitLab,3
+Node.js,PostgreSQL,3
+Node.js,Vue.js,3
+Oracle,Flask,3
+Oracle,GraphQL,3
+Oracle,Node.js,3
+Oracle,SciPy,3
+PostgreSQL,Data Pipeline,3
+PostgreSQL,Hive,3
+PostgreSQL,SciPy,3
+PostgreSQL,Scikit-Learn,3
+Power BI,MongoDB,3
+Power BI,Scala,3
+Power BI,dbt,3
+Problem Solving,Data Pipeline,3
+Problem Solving,Databricks,3
+Problem Solving,Flask,3
+Problem Solving,PyTorch,3
+Project Management,Airflow,3
+Project Management,PyTorch,3
+Project Management,REST API,3
+Project Management,Redis,3
+Project Management,Vue.js,3
+PySpark,Pandas,3
+PyTorch,Data Pipeline,3
+PyTorch,Hive,3
+Python,Seaborn,3
+R,Flask,3
+R,NumPy,3
+REST API,Flask,3
+REST API,Hive,3
+React,Data Mining,3
+React,Hive,3
+React,Power BI,3
+React,SQLAlchemy,3
+React,Scala,3
+React,SciPy,3
+Rust,Airflow,3
+Rust,Azure,3
+Rust,CI/CD,3
+Rust,Data Engineering,3
+Rust,Data Pipeline,3
+Rust,Data Warehouse,3
+Rust,ETL,3
+Rust,Git,3
+Rust,Oracle,3
+Rust,Scala,3
+SQL,Seaborn,3
+Scala,Scikit-Learn,3
+Scikit-Learn,Matplotlib,3
+Scrum,Elasticsearch,3
+Scrum,SciPy,3
+Tableau,Angular,3
+Tableau,CSS,3
+Tableau,Docker,3
+Tableau,Flask,3
+Tableau,Keras,3
+Tableau,Kubernetes,3
+Tableau,React,3
+Teamwork,NumPy,3
+Teamwork,Scala,3
+Teamwork,Scikit-Learn,3
+Teamwork,Snowflake,3
+TensorFlow,Cassandra,3
+TensorFlow,Data Pipeline,3
+TensorFlow,Flask,3
+TensorFlow,MySQL,3
+Terraform,Databricks,3
+Terraform,Julia,3
+Terraform,MongoDB,3
+Terraform,NLP,3
+Terraform,REST API,3
+TypeScript,C#,3
+TypeScript,FastAPI,3
+Unix,Business Intelligence,3
+Unix,Pandas,3
+Unix,PyTorch,3
+Unix,Scikit-Learn,3
+Unix,Terraform,3
+Agile,Julia,2
+Agile,Matplotlib,2
+Airflow,Ansible,2
+Airflow,Django,2
+Airflow,Keras,2
+Airflow,Oracle,2
+Airflow,Power BI,2
+Airflow,PySpark,2
+Angular,C#,2
+Angular,FastAPI,2
+Angular,Flask,2
+Angular,NumPy,2
+Angular,Pandas,2
+Angular,PySpark,2
+Angular,Scala,2
+Ansible,Databricks,2
+Ansible,Hive,2
+Azure,FastAPI,2
+Azure,Vue.js,2
+BI,Cassandra,2
+BI,MongoDB,2
+BI,Pandas,2
+Business Intelligence,Ansible,2
+Business Intelligence,Computer Vision,2
+Business Intelligence,Data Pipeline,2
+Business Intelligence,Hive,2
+Business Intelligence,Kubernetes,2
+Business Intelligence,NLP,2
+Business Intelligence,PySpark,2
+Business Intelligence,REST API,2
+Business Intelligence,Terraform,2
+C#,Redis,2
+C++,Airflow,2
+C++,Computer Vision,2
+C++,Docker,2
+C++,ETL,2
+C++,TensorFlow,2
+CI/CD,Julia,2
+CI/CD,Keras,2
+CSS,C#,2
+CSS,Data Engineering,2
+CSS,Pandas,2
+CSS,Scala,2
+CSS,Snowflake,2
+CSS,Terraform,2
+Cassandra,Data Pipeline,2
+Cassandra,Scikit-Learn,2
+Communication,FastAPI,2
+Communication,Seaborn,2
+Computer Vision,Data Engineering,2
+Computer Vision,Matplotlib,2
+Computer Vision,MongoDB,2
+Computer Vision,MySQL,2
+Computer Vision,PostgreSQL,2
+Computer Vision,Scala,2
+Data Engineering,Data Mining,2
+Data Engineering,Flask,2
+Data Engineering,TypeScript,2
+Data Mining,Hive,2
+Data Pipeline,Elasticsearch,2
+Data Pipeline,NLP,2
+Data Warehouse,GitLab,2
+Data Warehouse,TypeScript,2
+Databricks,Keras,2
+Databricks,NLP,2
+Databricks,NumPy,2
+Databricks,PostgreSQL,2
+Databricks,dbt,2
+Deep Learning,Business Intelligence,2
+Deep Learning,Elasticsearch,2
+Deep Learning,GitHub,2
+Deep Learning,Power BI,2
+Deep Learning,Seaborn,2
+Django,Ansible,2
+Django,Data Pipeline,2
+Django,GitHub,2
+Django,Kubernetes,2
+Django,Redis,2
+Django,Spark,2
+Django,Terraform,2
+Docker,Business Intelligence,2
+Docker,C#,2
+Docker,Data Mining,2
+Docker,Julia,2
+Docker,Keras,2
+Docker,Scikit-Learn,2
+Docker,dbt,2
+ETL,C#,2
+ETL,Computer Vision,2
+ETL,Elasticsearch,2
+ETL,Flask,2
+ETL,Keras,2
+ETL,Scikit-Learn,2
+Excel,Cassandra,2
+Excel,Computer Vision,2
+Excel,Elasticsearch,2
+Excel,GitLab,2
+Excel,Julia,2
+Excel,Natural Language Processing,2
+Excel,PostgreSQL,2
+Excel,REST API,2
+Excel,Terraform,2
+Excel,TypeScript,2
+Excel,dbt,2
+FastAPI,SQLAlchemy,2
+GCP,C#,2
+GCP,C++,2
+GCP,Data Mining,2
+Git,Looker,2
+Git,Matplotlib,2
+Git,SQLAlchemy,2
+Git,SciPy,2
+Git,Scikit-Learn,2
+GitHub,Elasticsearch,2
+GitHub,Vue.js,2
+GitLab,Hive,2
+GitLab,MongoDB,2
+Go,Cassandra,2
+Go,Data Pipeline,2
+Go,NLP,2
+Go,PySpark,2
+Google Cloud,BI,2
+Google Cloud,Business Intelligence,2
+Google Cloud,Cassandra,2
+Google Cloud,Deep Learning,2
+Google Cloud,Elasticsearch,2
+Google Cloud,Julia,2
+Google Cloud,Power BI,2
+Google Cloud,REST API,2
+GraphQL,Elasticsearch,2
+GraphQL,Snowflake,2
+HTML,Data Mining,2
+HTML,Databricks,2
+HTML,Flask,2
+HTML,Looker,2
+HTML,Pandas,2
+HTML,Scala,2
+HTML,Terraform,2
+Hadoop,SciPy,2
+Hadoop,Seaborn,2
+Hive,NLP,2
+Hive,Redis,2
+Java,Matplotlib,2
+JavaScript,Data Pipeline,2
+JavaScript,Hive,2
+JavaScript,Looker,2
+JavaScript,PyTorch,2
+Jira,Databricks,2
+Jira,Hive,2
+Jira,PySpark,2
+Jira,Vue.js,2
+Julia,NLP,2
+Kafka,Flask,2
+Kafka,Scikit-Learn,2
+Kafka,Vue.js,2
+Keras,Cassandra,2
+Keras,Elasticsearch,2
+Keras,MongoDB,2
+Keras,MySQL,2
+Keras,NumPy,2
+Kubernetes,Computer Vision,2
+Kubernetes,Data Mining,2
+Kubernetes,FastAPI,2
+Kubernetes,Flask,2
+Kubernetes,Hive,2
+Kubernetes,NumPy,2
+Kubernetes,Scikit-Learn,2
+Kubernetes,Vue.js,2
+Leadership,C#,2
+Leadership,Julia,2
+Leadership,Matplotlib,2
+Leadership,Seaborn,2
+Linux,C#,2
+Linux,Data Engineering,2
+Linux,Keras,2
+Linux,PySpark,2
+Looker,GitHub,2
+Machine Learning,FastAPI,2
+Machine Learning,REST API,2
+Matplotlib,SciPy,2
+Matplotlib,Seaborn,2
+MongoDB,Scikit-Learn,2
+MongoDB,Vue.js,2
+Natural Language Processing,Angular,2
+Natural Language Processing,Business Intelligence,2
+Natural Language Processing,CI/CD,2
+Natural Language Processing,Kafka,2
+Node.js,Ansible,2
+Node.js,C#,2
+Node.js,Kafka,2
+NumPy,Scala,2
+Oracle,C#,2
+Oracle,Data Pipeline,2
+Oracle,TensorFlow,2
+Pandas,Elasticsearch,2
+Pandas,Scala,2
+PostgreSQL,FastAPI,2
+PostgreSQL,SQLAlchemy,2
+Power BI,NumPy,2
+Power BI,PostgreSQL,2
+Power BI,Terraform,2
+Power BI,TypeScript,2
+Problem Solving,C++,2
+Problem Solving,Julia,2
+Problem Solving,Redis,2
+Project Management,C#,2
+Project Management,Cassandra,2
+Project Management,GitLab,2
+Project Management,Keras,2
+Project Management,Pandas,2
+Project Management,Scala,2
+Project Management,dbt,2
+PyTorch,Cassandra,2
+PyTorch,Elasticsearch,2
+PyTorch,Julia,2
+PyTorch,Matplotlib,2
+PyTorch,MongoDB,2
+PyTorch,MySQL,2
+PyTorch,PostgreSQL,2
+PyTorch,Scala,2
+R,Node.js,2
+R,REST API,2
+R,SciPy,2
+R,Seaborn,2
+R,Vue.js,2
+REST API,FastAPI,2
+REST API,Vue.js,2
+React,Computer Vision,2
+React,PySpark,2
+Rust,GitLab,2
+Rust,JavaScript,2
+Rust,R,2
+Rust,Scrum,2
+Rust,Unix,2
+SQL,FastAPI,2
+SQL,Julia,2
+Scala,Flask,2
+Scikit-Learn,Elasticsearch,2
+Scrum,C#,2
+Scrum,Computer Vision,2
+Snowflake,Elasticsearch,2
+Snowflake,PyTorch,2
+Snowflake,TensorFlow,2
+Snowflake,TypeScript,2
+Spark,Flask,2
+Spark,SciPy,2
+Spark,Seaborn,2
+Tableau,Elasticsearch,2
+Tableau,REST API,2
+Teamwork,Airflow,2
+Teamwork,Computer Vision,2
+Teamwork,Django,2
+Teamwork,Elasticsearch,2
+Teamwork,FastAPI,2
+Teamwork,Kafka,2
+Teamwork,Keras,2
+Teamwork,Vue.js,2
+TensorFlow,Elasticsearch,2
+TensorFlow,Julia,2
+TensorFlow,MongoDB,2
+TensorFlow,Scala,2
+TensorFlow,SciPy,2
+Terraform,Data Pipeline,2
+Terraform,Snowflake,2
+TypeScript,Cassandra,2
+TypeScript,Flask,2
+TypeScript,SQLAlchemy,2
+TypeScript,Scala,2
+Unix,Keras,2
+Unix,Redis,2
+AWS,FastAPI,1
+AWS,Julia,1
+AWS,SQLAlchemy,1
+AWS,Seaborn,1
+Agile,FastAPI,1
+Agile,Keras,1
+Agile,SQLAlchemy,1
+Airflow,Elasticsearch,1
+Airflow,GitLab,1
+Airflow,HTML,1
+Airflow,MySQL,1
+Airflow,REST API,1
+Angular,Business Intelligence,1
+Angular,Computer Vision,1
+Angular,Hadoop,1
+Angular,NLP,1
+Angular,Power BI,1
+Angular,Scikit-Learn,1
+Angular,Snowflake,1
+Ansible,Data Engineering,1
+Ansible,MongoDB,1
+Ansible,PySpark,1
+Ansible,Snowflake,1
+Azure,Looker,1
+Azure,Matplotlib,1
+Azure,SQLAlchemy,1
+Azure,Scikit-Learn,1
+Azure,Seaborn,1
+BI,Computer Vision,1
+BI,Deep Learning,1
+BI,GitLab,1
+BI,Julia,1
+BI,Matplotlib,1
+BI,Natural Language Processing,1
+BI,Node.js,1
+BI,NumPy,1
+BI,PostgreSQL,1
+BI,Scikit-Learn,1
+BI,TypeScript,1
+Business Intelligence,C#,1
+Business Intelligence,Flask,1
+Business Intelligence,GitLab,1
+Business Intelligence,NumPy,1
+Business Intelligence,Redis,1
+C#,Elasticsearch,1
+C#,NumPy,1
+C#,Pandas,1
+C#,PostgreSQL,1
+C#,Scikit-Learn,1
+C++,Ansible,1
+C++,C#,1
+C++,CI/CD,1
+C++,CSS,1
+C++,GitLab,1
+C++,HTML,1
+C++,MongoDB,1
+C++,MySQL,1
+C++,Oracle,1
+C++,PostgreSQL,1
+C++,PyTorch,1
+C++,Snowflake,1
+C++,Terraform,1
+C++,Unix,1
+CI/CD,SQLAlchemy,1
+CSS,Data Mining,1
+CSS,Data Warehouse,1
+CSS,FastAPI,1
+CSS,Hadoop,1
+CSS,Julia,1
+CSS,Looker,1
+CSS,NumPy,1
+CSS,PySpark,1
+CSS,SQLAlchemy,1
+CSS,Scikit-Learn,1
+Cassandra,Matplotlib,1
+Cassandra,NLP,1
+Cassandra,NumPy,1
+Communication,SQLAlchemy,1
+Computer Vision,Data Mining,1
+Computer Vision,Data Pipeline,1
+Computer Vision,Data Warehouse,1
+Computer Vision,NumPy,1
+Computer Vision,SciPy,1
+Computer Vision,Seaborn,1
+Computer Vision,TypeScript,1
+Data Engineering,FastAPI,1
+Data Engineering,Julia,1
+Data Engineering,Matplotlib,1
+Data Engineering,SQLAlchemy,1
+Data Engineering,Seaborn,1
+Data Mining,Cassandra,1
+Data Mining,PySpark,1
+Data Mining,Redis,1
+Data Mining,Scala,1
+Data Mining,Seaborn,1
+Data Pipeline,Redis,1
+Data Warehouse,C#,1
+Data Warehouse,MongoDB,1
+Data Warehouse,NLP,1
+Data Warehouse,NumPy,1
+Data Warehouse,REST API,1
+Data Warehouse,Scikit-Learn,1
+Databricks,Data Mining,1
+Databricks,Data Pipeline,1
+Databricks,FastAPI,1
+Databricks,GitLab,1
+Databricks,MySQL,1
+Deep Learning,C++,1
+Deep Learning,Flask,1
+Deep Learning,GitLab,1
+Deep Learning,JavaScript,1
+Deep Learning,MySQL,1
+Deep Learning,PostgreSQL,1
+Deep Learning,REST API,1
+Deep Learning,React,1
+Deep Learning,Redis,1
+Deep Learning,Scrum,1
+Deep Learning,Snowflake,1
+Deep Learning,TypeScript,1
+Django,Business Intelligence,1
+Django,Data Engineering,1
+Django,Hadoop,1
+Django,Hive,1
+Django,Power BI,1
+Django,PyTorch,1
+Django,SQLAlchemy,1
+Django,Scala,1
+Django,Snowflake,1
+Django,TensorFlow,1
+Django,Vue.js,1
+Docker,Data Pipeline,1
+Docker,Looker,1
+Docker,PySpark,1
+ETL,Django,1
+ETL,GraphQL,1
+ETL,PyTorch,1
+ETL,SciPy,1
+Excel,C#,1
+Excel,Django,1
+Excel,Flask,1
+Excel,Keras,1
+Excel,NumPy,1
+Excel,PyTorch,1
+Excel,Vue.js,1
+GCP,Matplotlib,1
+GCP,NumPy,1
+GCP,Scikit-Learn,1
+GCP,Seaborn,1
+Git,Keras,1
+GitHub,Computer Vision,1
+GitHub,Data Mining,1
+GitHub,Data Pipeline,1
+GitHub,FastAPI,1
+GitHub,SQLAlchemy,1
+GitHub,Scala,1
+GitLab,Data Mining,1
+GitLab,Redis,1
+GitLab,Vue.js,1
+GitLab,dbt,1
+Go,Elasticsearch,1
+Go,FastAPI,1
+Go,NumPy,1
+Go,SQLAlchemy,1
+Go,SciPy,1
+Google Cloud,C#,1
+Google Cloud,Django,1
+Google Cloud,Flask,1
+Google Cloud,NumPy,1
+GraphQL,Ansible,1
+GraphQL,C#,1
+GraphQL,Cassandra,1
+GraphQL,Data Engineering,1
+GraphQL,Data Pipeline,1
+GraphQL,MongoDB,1
+GraphQL,REST API,1
+GraphQL,Redis,1
+GraphQL,Vue.js,1
+GraphQL,dbt,1
+HTML,FastAPI,1
+HTML,Julia,1
+HTML,NLP,1
+HTML,NumPy,1
+HTML,PySpark,1
+HTML,SQLAlchemy,1
+HTML,Scikit-Learn,1
+Hadoop,Ansible,1
+Hadoop,Flask,1
+Hadoop,Matplotlib,1
+Hadoop,dbt,1
+Hive,Flask,1
+Hive,NumPy,1
+Hive,Seaborn,1
+Java,Seaborn,1
+JavaScript,Computer Vision,1
+JavaScript,Data Mining,1
+JavaScript,Matplotlib,1
+JavaScript,SciPy,1
+JavaScript,Scikit-Learn,1
+Jira,SciPy,1
+Jira,Scikit-Learn,1
+Julia,Scala,1
+Kafka,Data Mining,1
+Kafka,NLP,1
+Kafka,NumPy,1
+Kafka,Pandas,1
+Kafka,PyTorch,1
+Kafka,Seaborn,1
+Kafka,TensorFlow,1
+Keras,C#,1
+Keras,PostgreSQL,1
+Keras,Scala,1
+Keras,SciPy,1
+Kubernetes,C#,1
+Leadership,SQLAlchemy,1
+Linux,Data Pipeline,1
+Linux,Looker,1
+Linux,NLP,1
+Linux,Power BI,1
+Linux,Scikit-Learn,1
+Linux,Vue.js,1
+Looker,CI/CD,1
+Looker,Databricks,1
+Looker,Jira,1
+Looker,Keras,1
+Looker,NLP,1
+Looker,PostgreSQL,1
+Looker,PyTorch,1
+Looker,REST API,1
+Looker,Scrum,1
+Looker,TensorFlow,1
+Machine Learning,SQLAlchemy,1
+MongoDB,Data Mining,1
+MongoDB,Flask,1
+MongoDB,Matplotlib,1
+MongoDB,NLP,1
+MongoDB,NumPy,1
+MySQL,Matplotlib,1
+MySQL,Seaborn,1
+Natural Language Processing,Airflow,1
+Natural Language Processing,Data Warehouse,1
+Natural Language Processing,GitHub,1
+Natural Language Processing,GitLab,1
+Natural Language Processing,GraphQL,1
+Natural Language Processing,Hive,1
+Natural Language Processing,Jira,1
+Natural Language Processing,Kubernetes,1
+Natural Language Processing,Looker,1
+Natural Language Processing,Node.js,1
+Natural Language Processing,Redis,1
+Natural Language Processing,Seaborn,1
+Natural Language Processing,Snowflake,1
+Node.js,Business Intelligence,1
+Node.js,Computer Vision,1
+Node.js,Data Engineering,1
+Node.js,Elasticsearch,1
+Node.js,Flask,1
+Node.js,Hive,1
+Node.js,Looker,1
+Node.js,NLP,1
+Node.js,Scala,1
+Node.js,Snowflake,1
+Node.js,Unix,1
+NumPy,dbt,1
+Oracle,Computer Vision,1
+Oracle,Keras,1
+Oracle,Looker,1
+Oracle,PyTorch,1
+Oracle,Vue.js,1
+Pandas,SQLAlchemy,1
+Pandas,Seaborn,1
+PostgreSQL,Matplotlib,1
+PostgreSQL,Scala,1
+PostgreSQL,dbt,1
+Power BI,Ansible,1
+Power BI,Computer Vision,1
+Power BI,Data Pipeline,1
+Power BI,Elasticsearch,1
+Power BI,FastAPI,1
+Power BI,Flask,1
+Power BI,GitLab,1
+Power BI,NLP,1
+Power BI,PySpark,1
+Power BI,REST API,1
+Power BI,TensorFlow,1
+Power BI,Unix,1
+Problem Solving,Elasticsearch,1
+Problem Solving,PySpark,1
+Problem Solving,Vue.js,1
+Project Management,C++,1
+Project Management,Data Pipeline,1
+Project Management,Django,1
+Project Management,MongoDB,1
+Project Management,NumPy,1
+PySpark,NLP,1
+PySpark,NumPy,1
+PySpark,Scikit-Learn,1
+PyTorch,C#,1
+PyTorch,GitLab,1
+PyTorch,SciPy,1
+PyTorch,Seaborn,1
+R,C#,1
+R,Cassandra,1
+R,Django,1
+R,Elasticsearch,1
+R,Matplotlib,1
+R,Redis,1
+REST API,Matplotlib,1
+REST API,SciPy,1
+REST API,Scikit-Learn,1
+React,Looker,1
+React,Snowflake,1
+Redis,FastAPI,1
+Redis,NLP,1
+Redis,SQLAlchemy,1
+Rust,BI,1
+Rust,GitHub,1
+Rust,Machine Learning,1
+Rust,Node.js,1
+Rust,PostgreSQL,1
+Rust,Power BI,1
+Rust,React,1
+Rust,Redis,1
+Rust,TypeScript,1
+SQL,SQLAlchemy,1
+Scala,NLP,1
+Scala,Redis,1
+Scikit-Learn,Seaborn,1
+Scrum,Data Pipeline,1
+Snowflake,C#,1
+Snowflake,GitLab,1
+Snowflake,Julia,1
+Snowflake,NLP,1
+Snowflake,REST API,1
+Snowflake,Redis,1
+Spark,FastAPI,1
+Spark,GraphQL,1
+Spark,Julia,1
+Spark,Matplotlib,1
+Spark,SQLAlchemy,1
+Tableau,Ansible,1
+Tableau,Computer Vision,1
+Tableau,GitLab,1
+Tableau,Julia,1
+Tableau,Matplotlib,1
+Tableau,Node.js,1
+Tableau,NumPy,1
+Tableau,Seaborn,1
+Teamwork,C#,1
+Teamwork,GraphQL,1
+Teamwork,Hive,1
+Teamwork,PySpark,1
+Teamwork,Redis,1
+Teamwork,SQLAlchemy,1
+TensorFlow,C#,1
+TensorFlow,Data Warehouse,1
+TensorFlow,Matplotlib,1
+TensorFlow,PostgreSQL,1
+TensorFlow,Seaborn,1
+Terraform,C#,1
+Terraform,Data Mining,1
+Terraform,Data Warehouse,1
+Terraform,Keras,1
+Terraform,Matplotlib,1
+Terraform,NumPy,1
+Terraform,Pandas,1
+Terraform,SciPy,1
+TypeScript,Data Pipeline,1
+TypeScript,NLP,1
+TypeScript,NumPy,1
+TypeScript,Pandas,1
+TypeScript,PySpark,1
+TypeScript,Scikit-Learn,1
+TypeScript,dbt,1
+Unix,Data Mining,1
+Unix,Data Pipeline,1
+Unix,Looker,1
+Unix,NLP,1
+Unix,NumPy,1
+Vue.js,PostgreSQL,1
+Vue.js,Redis,1
+dbt,Elasticsearch,1
+dbt,Julia,1

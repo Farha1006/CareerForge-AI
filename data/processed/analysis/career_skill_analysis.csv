@@ -1,0 +1,81 @@
+career_category,skill_name,skill_count,rank
+Customer Service & Retail,Communication,678,1.0
+Customer Service & Retail,Excel,330,2.0
+Customer Service & Retail,Leadership,179,3.0
+Customer Service & Retail,Go,102,4.0
+Customer Service & Retail,Teamwork,83,5.0
+Customer Service & Retail,Problem Solving,69,6.0
+Customer Service & Retail,R,61,7.0
+Customer Service & Retail,Project Management,38,8.0
+Customer Service & Retail,Agile,21,9.0
+Customer Service & Retail,HTML,14,10.0
+"Data, AI & Analytics",Communication,480,1.0
+"Data, AI & Analytics",SQL,430,2.0
+"Data, AI & Analytics",Python,336,3.0
+"Data, AI & Analytics",Leadership,266,4.0
+"Data, AI & Analytics",Excel,203,5.0
+"Data, AI & Analytics",AWS,180,6.0
+"Data, AI & Analytics",ETL,173,7.0
+"Data, AI & Analytics",Machine Learning,150,8.0
+"Data, AI & Analytics",Tableau,145,9.0
+"Data, AI & Analytics",Azure,135,10.0
+Finance & Accounting,Communication,544,1.0
+Finance & Accounting,Excel,483,2.0
+Finance & Accounting,Leadership,227,3.0
+Finance & Accounting,Problem Solving,75,4.0
+Finance & Accounting,Teamwork,74,5.0
+Finance & Accounting,Go,61,6.0
+Finance & Accounting,Oracle,59,7.0
+Finance & Accounting,R,53,8.0
+Finance & Accounting,Project Management,50,9.0
+Finance & Accounting,SQL,37,10.0
+General Professional / Other,Communication,5245,1.0
+General Professional / Other,Leadership,1900,2.0
+General Professional / Other,Excel,1709,3.0
+General Professional / Other,Go,739,4.0
+General Professional / Other,Teamwork,679,5.0
+General Professional / Other,Problem Solving,646,6.0
+General Professional / Other,Project Management,637,7.0
+General Professional / Other,R,388,8.0
+General Professional / Other,Agile,348,9.0
+General Professional / Other,SQL,214,10.0
+Healthcare & Clinical,Communication,1365,1.0
+Healthcare & Clinical,Leadership,462,2.0
+Healthcare & Clinical,Excel,267,3.0
+Healthcare & Clinical,Teamwork,185,4.0
+Healthcare & Clinical,Go,150,5.0
+Healthcare & Clinical,Problem Solving,118,6.0
+Healthcare & Clinical,R,96,7.0
+Healthcare & Clinical,Project Management,72,8.0
+Healthcare & Clinical,Agile,33,9.0
+Healthcare & Clinical,BI,29,10.0
+Management & Operations,Communication,3580,1.0
+Management & Operations,Leadership,2883,2.0
+Management & Operations,Excel,1372,3.0
+Management & Operations,Project Management,1215,4.0
+Management & Operations,Go,488,5.0
+Management & Operations,Problem Solving,465,6.0
+Management & Operations,Teamwork,370,7.0
+Management & Operations,Agile,361,8.0
+Management & Operations,R,170,9.0
+Management & Operations,BI,143,10.0
+Sales & Marketing,Communication,1915,1.0
+Sales & Marketing,Leadership,769,2.0
+Sales & Marketing,Excel,543,3.0
+Sales & Marketing,Go,447,4.0
+Sales & Marketing,Project Management,261,5.0
+Sales & Marketing,Teamwork,229,6.0
+Sales & Marketing,Problem Solving,134,7.0
+Sales & Marketing,R,71,8.0
+Sales & Marketing,Agile,61,9.0
+Sales & Marketing,Tableau,41,10.0
+Software & Cloud Engineering,Communication,2406,1.0
+Software & Cloud Engineering,Leadership,1121,2.0
+Software & Cloud Engineering,Agile,838,3.0
+Software & Cloud Engineering,Project Management,663,4.0
+Software & Cloud Engineering,Python,653,5.0
+Software & Cloud Engineering,SQL,624,6.0
+Software & Cloud Engineering,AWS,589,7.0
+Software & Cloud Engineering,Java,581,8.0
+Software & Cloud Engineering,Azure,492,9.0
+Software & Cloud Engineering,Excel,480,10.0

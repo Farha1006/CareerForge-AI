@@ -1,0 +1,88 @@
+skill_id,skill_name,job_count,percentage_of_jobs
+4,Communication,16213,48.77
+2,Leadership,7807,23.48
+1,Excel,5387,16.2
+5,Project Management,3044,9.16
+11,Go,2372,7.13
+13,Problem Solving,2052,6.17
+7,Teamwork,1898,5.71
+20,Agile,1808,5.44
+23,SQL,1483,4.46
+6,R,1235,3.71
+25,Python,1213,3.65
+8,AWS,925,2.78
+9,Azure,805,2.42
+35,Java,772,2.32
+22,Oracle,741,2.23
+24,Linux,551,1.66
+29,JavaScript,551,1.66
+14,BI,542,1.63
+34,HTML,491,1.48
+52,Scrum,469,1.41
+49,Jira,457,1.37
+16,Machine Learning,437,1.31
+27,React,418,1.26
+19,Tableau,406,1.22
+44,CI/CD,352,1.06
+33,Git,341,1.03
+31,CSS,337,1.01
+10,GCP,322,0.97
+26,ETL,307,0.92
+42,Business Intelligence,303,0.91
+47,Kubernetes,288,0.87
+32,Docker,287,0.86
+37,Power BI,281,0.85
+41,Spark,244,0.73
+38,Unix,214,0.64
+30,Angular,201,0.6
+59,Data Warehouse,174,0.52
+12,Google Cloud,172,0.52
+50,GitHub,157,0.47
+58,Data Engineering,156,0.47
+65,TypeScript,153,0.46
+48,Terraform,151,0.45
+64,MySQL,142,0.43
+40,Kafka,138,0.42
+46,Ansible,137,0.41
+51,Snowflake,134,0.4
+68,PostgreSQL,120,0.36
+39,Hadoop,105,0.32
+63,Data Mining,94,0.28
+60,GitLab,88,0.26
+53,Databricks,86,0.26
+61,REST API,82,0.25
+17,Natural Language Processing,79,0.24
+36,Node.js,79,0.24
+15,Deep Learning,77,0.23
+62,MongoDB,77,0.23
+76,Scala,67,0.2
+21,Airflow,63,0.19
+57,TensorFlow,60,0.18
+71,Cassandra,55,0.17
+69,Hive,54,0.16
+43,Looker,52,0.16
+54,Computer Vision,52,0.16
+56,PyTorch,52,0.16
+78,Redis,50,0.15
+82,NLP,50,0.15
+73,Pandas,47,0.14
+45,GraphQL,44,0.13
+74,dbt,44,0.13
+80,Elasticsearch,41,0.12
+70,PySpark,38,0.11
+77,Data Pipeline,37,0.11
+28,Django,36,0.11
+79,Scikit-Learn,34,0.1
+72,NumPy,31,0.09
+18,C++,30,0.09
+3,Rust,27,0.08
+66,Vue.js,24,0.07
+81,Flask,24,0.07
+67,C#,22,0.07
+55,Keras,19,0.06
+75,Julia,12,0.04
+83,FastAPI,9,0.03
+87,SciPy,9,0.03
+84,Matplotlib,6,0.02
+86,SQLAlchemy,4,0.01
+85,Seaborn,3,0.01
