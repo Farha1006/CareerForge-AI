@@ -35,6 +35,12 @@ The platform combines a **Scikit-Learn Random Forest Classifier**, a **3-Layer P
 
 ---
 
+## Project Screenshot
+
+![CareerForge AI Dashboard](docs/images/careerforge-dashboard.png)
+
+---
+
 ## 2. Problem Statement
 Higher education students frequently struggle to align their academic skills with industry expectations due to:
 - **Outdated & Static Guidance:** Traditional career advice relies on manual surveys rather than live, empirical job market data.
